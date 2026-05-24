@@ -1,756 +1,756 @@
 ﻿Create Date,Day,Priority,District,Type,Task,Status,Closed Date,TechName
 9/3/2024,Tue,Low,100,Login,Login,Closed,11/9/2024,Sofia
-9/3/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Closed,10/26/2024,Henry
-9/3/2024,Tue,Low,100,Printing and Scanning,Printing Issues,Closed,10/8/2024,Henry
-9/3/2024,Tue,Low,100,Login,Login issues,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/3/2024,Tue,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/3/2024,Tue,Medium,100,Desktop,Inactive-Update Issue,Closed,10/7/2024,Lucas
-9/3/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Canceled,10/2/2024,Henry
-9/3/2024,Tue,Medium,100,Login,Login issues,Closed,10/7/2024,Henry
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,10/26/2024,Henry
+9/3/2024,Tue,Low,100,Security,CAT 3 Code,Closed,10/8/2024,Henry
+9/3/2024,Tue,Low,100,Login,Login,Closed,10/2/2024,Sofia
+9/3/2024,Tue,Low,100,Desktop,Connectivity,Closed,10/2/2024,Lucas
+9/3/2024,Tue,Low,100,Desktop,Connectivity,Closed,10/2/2024,Lucas
+9/3/2024,Tue,Medium,100,Desktop,Connectivity,Closed,10/7/2024,Lucas
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,10/2/2024,Isabella
+9/3/2024,Tue,Medium,100,Login,Login,Closed,10/7/2024,Isabella
 9/3/2024,Tue,Low,100,Login,Login,Closed,10/15/2024,Liam
-9/3/2024,Tue,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,11/5/2024,Sofia
-9/3/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Closed,10/2/2024,Henry
-9/3/2024,Tue,Medium,100,Login,Login,Closed,10/6/2024,Sofia
-9/3/2024,Tue,Medium,100,Security Operations,Malicious Code (CAT 3),Closed,11/6/2024,Sofia
-9/3/2024,Tue,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,10/5/2024,Liam
-9/3/2024,Tue,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/5/2024,Lucas
-9/3/2024,Tue,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/3/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Closed,10/16/2024,Liam
-9/3/2024,Tue,Medium,100,Login,Login,Closed,10/14/2024,Liam
-9/3/2024,Tue,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/3/2024,Tue,Low,200,Login,Access to Application - Application Software,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,200,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,200,Desktop,Reimage Desktop,Closed,10/13/2024,Sofia
-9/3/2024,Tue,Medium,200,Login,Login,Closed,10/13/2024,Sofia
-9/3/2024,Tue,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,200,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,200,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,200,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/3/2024,Tue,Low,200,Login,Login,Closed,10/20/2024,Sofia
-9/3/2024,Tue,Medium,200,Desktop,Hardware Issues,Closed,10/28/2024,Henry
-9/3/2024,Tue,Medium,300,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,300,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,300,Desktop,Reconnect,Closed,10/5/2024,Sofia
-9/3/2024,Tue,Low,400,Desktop,Desktop Management Enrollment Issues,Closed,10/6/2024,Lucas
-9/3/2024,Tue,Low,400,Desktop,Desktop Management Enrollment Issues,Closed,10/6/2024,Lucas
-9/3/2024,Tue,Low,400,Desktop,Desktop Management Enrollment Issues,Closed,10/6/2024,Lucas
-9/3/2024,Tue,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,10/14/2024,Henry
-9/3/2024,Tue,Medium,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
+9/3/2024,Tue,Low,100,Connectivity ,Network,Canceled,11/5/2024,Sofia
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,10/2/2024,Isabella
+9/3/2024,Tue,Medium,100,Login,Login,Canceled,10/6/2024,Sofia
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,11/6/2024,Sofia
+9/3/2024,Tue,Low,100,Desktop,Connectivity,Canceled,10/5/2024,Liam
+9/3/2024,Tue,Low,100,Desktop,Connectivity,Canceled,10/5/2024,Lucas
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,9/22/2024,Sofia
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,10/16/2024,Liam
+9/3/2024,Tue,Medium,100,Login,Login,Canceled,10/14/2024,Liam
+9/3/2024,Tue,Medium,100,Security,CAT 3 Code,Canceled,9/22/2024,Isabella
+9/3/2024,Tue,Low,200,Login,Login,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,200,Desktop,Connectivity,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,200,Desktop,Connectivity,Canceled,10/13/2024,Sofia
+9/3/2024,Tue,Medium,200,Login,Login,Canceled,10/13/2024,Sofia
+9/3/2024,Tue,Low,200,Connectivity ,Network,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,200,Desktop,Connectivity,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,200,Desktop,Connectivity,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,200,Login,Login,Canceled,9/22/2024,Sofia
+9/3/2024,Tue,Low,200,Login,Login,Canceled,10/20/2024,Sofia
+9/3/2024,Tue,Medium,200,Desktop,Connectivity,Canceled,10/28/2024,Isabella
+9/3/2024,Tue,Medium,300,Desktop,Connectivity,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,300,Desktop,Connectivity,Canceled,10/2/2024,Sofia
+9/3/2024,Tue,Medium,300,Desktop,Connectivity,Canceled,10/5/2024,Sofia
+9/3/2024,Tue,Low,400,Desktop,Connectivity,Canceled,10/6/2024,Lucas
+9/3/2024,Tue,Low,400,Desktop,Connectivity,Canceled,10/6/2024,Lucas
+9/3/2024,Tue,Low,400,Desktop,Connectivity,Canceled,10/6/2024,Lucas
+9/3/2024,Tue,Low,400,Connectivity ,Network,Canceled,10/14/2024,Isabella
+9/3/2024,Tue,Medium,400,Login,Login,Canceled,9/22/2024,Sofia
 9/3/2024,Tue,Low,400,Login,Login,Closed,10/7/2024,Lucas
-9/3/2024,Tue,Medium,400,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/19/2024,Sofia
-9/3/2024,Tue,Medium,400,Desktop,Reconnect,Closed,10/2/2024,Sofia
-9/3/2024,Tue,Medium,500,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Lucas
+9/3/2024,Tue,Medium,400,Connectivity ,Network,Closed,10/19/2024,Sofia
+9/3/2024,Tue,Medium,400,Desktop,Connectivity,Closed,10/2/2024,Sofia
+9/3/2024,Tue,Medium,500,Connectivity ,Network,Closed,9/22/2024,Lucas
 9/3/2024,Tue,Low,700,Login,Login,Closed,10/6/2024,Sofia
-9/3/2024,Tue,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,10/7/2024,Sofia
-9/3/2024,Tue,Medium,800,Desktop,Inactive-Update Issue,Closed,10/28/2024,Henry
-9/3/2024,Tue,Medium,800,Desktop,Add Desktop to Intune Staff Group,Closed,10/5/2024,Lucas
-9/3/2024,Tue,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
+9/3/2024,Tue,Low,800,Connectivity ,Network,Closed,10/7/2024,Sofia
+9/3/2024,Tue,Medium,800,Desktop,Connectivity,Closed,10/28/2024,Isabella
+9/3/2024,Tue,Medium,800,Desktop,Connectivity,Closed,10/5/2024,Lucas
+9/3/2024,Tue,Medium,800,Login,Login,Closed,9/22/2024,Isabella
 9/4/2024,Wed,Medium,200,Login,Login,Closed,10/9/2024,Lucas
-9/4/2024,Wed,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/8/2024,Lucas
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Liam
+9/4/2024,Wed,Low,700,Desktop,Connectivity,Closed,9/8/2024,Lucas
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/9/2024,Liam
 9/5/2024,Thu,Low,100,Login,Login,Closed,9/22/2024,Liam
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/21/2024,Sofia
-9/5/2024,Thu,High,100,Printing and Scanning,Printer - Move-Add-Change Request,Closed,9/11/2024,Sofia
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/21/2024,Sofia
+9/5/2024,Thu,High,100,Security,CAT 3 Code,Closed,9/11/2024,Sofia
 9/5/2024,Thu,Low,100,Login,Login,Closed,9/25/2024,Lucas
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/10/2024,Sofia
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/15/2024,Henry
-9/5/2024,Thu,Low,100,Login,Login issues,Closed,9/18/2024,Henry
-9/5/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/9/2024,Sofia
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Sofia
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Sofia
-9/5/2024,Thu,Low,100,E-Mail,Add / Remove / Change,Closed,9/15/2024,Liam
-9/5/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/5/2024,Thu,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,9/14/2024,Henry
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/10/2024,Sofia
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/15/2024,Isabella
+9/5/2024,Thu,Low,100,Login,Login,Closed,9/18/2024,Isabella
+9/5/2024,Thu,Medium,100,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/5/2024,Thu,Low,100,E-Mail,Login,Closed,9/15/2024,Liam
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/5/2024,Thu,Medium,100,Connectivity ,Network,Closed,9/14/2024,Isabella
 9/5/2024,Thu,Low,100,Login,Login,Closed,9/21/2024,Sofia
-9/5/2024,Thu,Medium,100,Desktop,Reimage Desktop,Closed,9/22/2024,Henry
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/8/2024,Liam
-9/5/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/15/2024,Liam
-9/5/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/5/2024,Thu,Medium,100,Desktop,Reimage Desktop,Closed,9/10/2024,Sofia
-9/5/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/10/2024,Henry
-9/5/2024,Thu,Low,100,Login,Login,Closed,9/14/2024,Henry
-9/5/2024,Thu,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,9/15/2024,Liam
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/8/2024,Liam
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/10/2024,Lucas
-9/5/2024,Thu,Low,100,Desktop,Won't turn on,Closed,9/18/2024,Sofia
-9/5/2024,Thu,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/29/2024,Sofia
-9/5/2024,Thu,Low,100,Login,Login,Closed,9/29/2024,Sofia
-9/5/2024,Thu,Medium,100,Login,Login,Closed,9/9/2024,Henry
-9/5/2024,Thu,Low,100,Login,Login,Closed,9/24/2024,Liam
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/8/2024,Lucas
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Henry
-9/5/2024,Thu,Medium,100,E-Mail,Add / Remove / Change,Closed,9/11/2024,Sofia
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/11/2024,Sofia
-9/5/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/5/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/21/2024,Henry
-9/5/2024,Thu,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Lucas
-9/5/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/16/2024,Liam
-9/5/2024,Thu,Low,200,Login,Login,Closed,9/17/2024,Sofia
-9/5/2024,Thu,Low,200,Login,Login,Closed,9/30/2024,Sofia
-9/5/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,9/11/2024,Sofia
-9/5/2024,Thu,Low,200,Login,Login,Closed,9/9/2024,Liam
-9/5/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,9/11/2024,Henry
-9/5/2024,Thu,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/9/2024,Sofia
-9/5/2024,Thu,Medium,200,Desktop,Reconnect,Closed,9/8/2024,Sofia
-9/5/2024,Thu,Low,200,Login,Login issues,Closed,9/11/2024,Henry
-9/5/2024,Thu,High,200,Printing and Scanning,Printing/Scanning Issue,Closed,9/11/2024,Henry
-9/5/2024,Thu,Medium,200,Desktop,Reimage Desktop,Closed,9/10/2024,Henry
-9/5/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,9/10/2024,Henry
-9/5/2024,Thu,Medium,200,Desktop,Reimage Desktop,Closed,9/9/2024,Sofia
-9/5/2024,Thu,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/5/2024,Thu,Medium,300,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/5/2024,Thu,Low,300,Printing and Scanning,Printing/Scanning Issue,Closed,9/10/2024,Sofia
-9/5/2024,Thu,Medium,400,Desktop,Reimage Desktop,Closed,9/10/2024,Sofia
-9/5/2024,Thu,Low,400,Desktop,Reimage Desktop,Closed,9/17/2024,Henry
-9/5/2024,Thu,Medium,400,Desktop,Hardware Issues,Closed,9/8/2024,Lucas
-9/5/2024,Thu,Low,400,Internet and Network Connectivity,Admin Network Down,Closed,9/8/2024,Sofia
-9/5/2024,Thu,Medium,400,Desktop,Reimage Desktop,Closed,9/25/2024,Henry
-9/5/2024,Thu,Low,400,Desktop,Inactive-Update Issue,Closed,9/17/2024,Sofia
-9/5/2024,Thu,Medium,400,Printing and Scanning,Printing Issues,Closed,9/10/2024,Henry
-9/5/2024,Thu,Medium,400,Login,Login issues,Closed,9/10/2024,Henry
-9/5/2024,Thu,Medium,400,Desktop,Reconnect,Closed,9/16/2024,Henry
-9/5/2024,Thu,Medium,400,Login,Application enhancement,Closed,9/22/2024,Lucas
-9/5/2024,Thu,High,500,Printing and Scanning,Printing Issues,Closed,9/11/2024,Henry
+9/5/2024,Thu,Medium,100,Desktop,Connectivity,Closed,9/22/2024,Isabella
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/8/2024,Liam
+9/5/2024,Thu,Low,100,Connectivity ,Network,Closed,9/15/2024,Liam
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/5/2024,Thu,Medium,100,Desktop,Connectivity,Closed,9/10/2024,Sofia
+9/5/2024,Thu,Low,100,Connectivity ,Network,Closed,9/10/2024,Isabella
+9/5/2024,Thu,Low,100,Login,Login,Closed,9/14/2024,Isabella
+9/5/2024,Thu,Medium,100,Connectivity ,Network,Closed,9/15/2024,Liam
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/8/2024,Liam
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/10/2024,Lucas
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Closed,9/18/2024,Sofia
+9/5/2024,Thu,Low,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/5/2024,Thu,Low,100,Login,Login,Pending,9/29/2024,Sofia
+9/5/2024,Thu,Medium,100,Login,Login,Pending,9/9/2024,Isabella
+9/5/2024,Thu,Low,100,Login,Login,Pending,9/24/2024,Liam
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Pending,9/8/2024,Lucas
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Pending,9/23/2024,Isabella
+9/5/2024,Thu,Medium,100,E-Mail,Login,Pending,9/11/2024,Sofia
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Pending,9/11/2024,Sofia
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Pending,9/22/2024,Liam
+9/5/2024,Thu,Low,100,Connectivity ,Network,Pending,9/21/2024,Isabella
+9/5/2024,Thu,Low,100,Desktop,Connectivity,Pending,9/9/2024,Lucas
+9/5/2024,Thu,Medium,100,Security,CAT 3 Code,Pending,9/16/2024,Liam
+9/5/2024,Thu,Low,200,Login,Login,Pending,9/17/2024,Sofia
+9/5/2024,Thu,Low,200,Login,Login,Pending,9/30/2024,Sofia
+9/5/2024,Thu,Medium,200,Security,CAT 3 Code,Pending,9/11/2024,Sofia
+9/5/2024,Thu,Low,200,Login,Login,Pending,9/9/2024,Liam
+9/5/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/11/2024,Isabella
+9/5/2024,Thu,Low,200,Connectivity ,Network,Closed,9/9/2024,Sofia
+9/5/2024,Thu,Medium,200,Desktop,Connectivity,Closed,9/8/2024,Sofia
+9/5/2024,Thu,Low,200,Login,Login,Closed,9/11/2024,Isabella
+9/5/2024,Thu,High,200,Security,CAT 3 Code,Closed,9/11/2024,Isabella
+9/5/2024,Thu,Medium,200,Desktop,Connectivity,Closed,9/10/2024,Isabella
+9/5/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/10/2024,Isabella
+9/5/2024,Thu,Medium,200,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/5/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/5/2024,Thu,Medium,300,Security,CAT 3 Code,Closed,9/22/2024,Isabella
+9/5/2024,Thu,Low,300,Security,CAT 3 Code,Closed,9/10/2024,Sofia
+9/5/2024,Thu,Medium,400,Desktop,Connectivity,Closed,9/10/2024,Sofia
+9/5/2024,Thu,Low,400,Desktop,Connectivity,Closed,9/17/2024,Isabella
+9/5/2024,Thu,Medium,400,Desktop,Connectivity,Closed,9/8/2024,Lucas
+9/5/2024,Thu,Low,400,Connectivity ,Network,Closed,9/8/2024,Sofia
+9/5/2024,Thu,Medium,400,Desktop,Connectivity,Closed,9/25/2024,Isabella
+9/5/2024,Thu,Low,400,Desktop,Connectivity,Closed,9/17/2024,Sofia
+9/5/2024,Thu,Medium,400,Security,CAT 3 Code,Closed,9/10/2024,Isabella
+9/5/2024,Thu,Medium,400,Login,Login,Closed,9/10/2024,Isabella
+9/5/2024,Thu,Medium,400,Desktop,Connectivity,Closed,9/16/2024,Isabella
+9/5/2024,Thu,Medium,400,Login,Login,Closed,9/22/2024,Lucas
+9/5/2024,Thu,High,500,Security,CAT 3 Code,Closed,9/11/2024,Isabella
 9/5/2024,Thu,Low,700,Login,Login,Closed,9/10/2024,Sofia
-9/5/2024,Thu,Medium,700,Login,Login issues,Closed,9/15/2024,Henry
-9/5/2024,Thu,Medium,700,Printing and Scanning,Printing Issues,Closed,9/25/2024,Sofia
-9/5/2024,Thu,Medium,700,Printing and Scanning,Printing Issues,Closed,9/25/2024,Sofia
-9/5/2024,Thu,Low,800,Login,Login issues,Closed,9/21/2024,Sofia
-9/5/2024,Thu,Low,800,Login,Login issues,Closed,9/10/2024,Lucas
-9/5/2024,Thu,Medium,800,Login,Login,Closed,9/16/2024,Henry
+9/5/2024,Thu,Medium,700,Login,Login,Closed,9/15/2024,Isabella
+9/5/2024,Thu,Medium,700,Security,CAT 3 Code,Closed,9/25/2024,Sofia
+9/5/2024,Thu,Medium,700,Security,CAT 3 Code,Closed,9/25/2024,Sofia
+9/5/2024,Thu,Low,800,Login,Login,Closed,9/21/2024,Sofia
+9/5/2024,Thu,Low,800,Login,Login,Closed,9/10/2024,Lucas
+9/5/2024,Thu,Medium,800,Login,Login,Closed,9/16/2024,Isabella
 9/5/2024,Thu,Medium,800,Login,Login,Closed,9/30/2024,Lucas
-9/5/2024,Thu,Low,800,Desktop,Inactive-Update Issue,Closed,9/8/2024,Sofia
-9/5/2024,Thu,Medium,800,Printing and Scanning,Printing Issues,Closed,9/8/2024,Sofia
-9/5/2024,Thu,Medium,800,E-Mail,Add / Remove / Change,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Low,100,Login,Login issues,Closed,9/16/2024,Lucas
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/17/2024,Henry
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Henry
-9/6/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/10/2024,Lucas
-9/6/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/6/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/15/2024,Sofia
-9/6/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/6/2024,Fri,Medium,100,Login,Login,Closed,9/30/2024,Henry
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/10/2024,Sofia
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/14/2024,Sofia
-9/6/2024,Fri,Medium,100,Desktop,Hardware Issues,Closed,9/21/2024,Henry
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/10/2024,Henry
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/10/2024,Henry
-9/6/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,9/15/2024,Liam
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/15/2024,Liam
-9/6/2024,Fri,Medium,100,Desktop,Reimage Desktop,Closed,9/17/2024,Henry
-9/6/2024,Fri,Medium,100,Desktop,Reimage Desktop,Closed,9/14/2024,Sofia
-9/6/2024,Fri,Low,100,Desktop,Reimage Desktop,Closed,9/10/2024,Lucas
-9/6/2024,Fri,Medium,100,Internet and Network Connectivity,Access to Wireless Network - SSID,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Medium,100,Internet and Network Connectivity,WiFi connectivity Issues,Closed,9/14/2024,Sofia
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,9/14/2024,Sofia
-9/6/2024,Fri,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/6/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/10/2024,Lucas
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/24/2024,Henry
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/14/2024,Henry
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/14/2024,Henry
-9/6/2024,Fri,Medium,100,Login,Login,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/10/2024,Sofia
-9/6/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/16/2024,Sofia
-9/6/2024,Fri,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/23/2024,Henry
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Henry
-9/6/2024,Fri,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/6/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/9/2024,Liam
-9/6/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/10/2024,Lucas
-9/6/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/9/2024,Henry
-9/6/2024,Fri,Low,100,Login,Login,Closed,9/11/2024,Henry
-9/6/2024,Fri,Medium,200,Desktop,Reimage Desktop,Closed,9/15/2024,Sofia
-9/6/2024,Fri,Medium,200,Login,Login,Closed,9/29/2024,Sofia
-9/6/2024,Fri,Low,200,Login,Login,Closed,9/23/2024,Lucas
-9/6/2024,Fri,Medium,200,Desktop,Hardware Issues,Closed,9/9/2024,Lucas
-9/6/2024,Fri,Low,200,Internet and Network Connectivity,Admin Network Down,Closed,9/23/2024,Sofia
-9/6/2024,Fri,Medium,200,Desktop,Reconnect,Closed,9/9/2024,Sofia
-9/6/2024,Fri,High,200,Printing and Scanning,Printing Issues,Closed,9/10/2024,Henry
-9/6/2024,Fri,High,200,Printing and Scanning,Mainframe Printing-Scanning,Closed,9/16/2024,Henry
-9/6/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Low,200,Internet and Network Connectivity,Wiring Repairs,Closed,9/17/2024,Sofia
-9/6/2024,Fri,Medium,200,Login,Login,Closed,9/11/2024,Lucas
-9/6/2024,Fri,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Lucas
-9/6/2024,Fri,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Lucas
-9/6/2024,Fri,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/9/2024,Lucas
-9/6/2024,Fri,Medium,200,Login,Login Information,Closed,9/22/2024,Sofia
-9/6/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,9/10/2024,Sofia
-9/6/2024,Fri,Low,200,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/6/2024,Fri,High,200,Printing and Scanning,Printing/Scanning Issue,Closed,9/30/2024,Henry
-9/6/2024,Fri,Low,300,Login,Login,Closed,9/18/2024,Lucas
-9/6/2024,Fri,Medium,300,Internet and Network Connectivity,Access to Wireless Network - SSID,Closed,9/9/2024,Lucas
-9/6/2024,Fri,Medium,300,Login,Application enhancement,Closed,9/22/2024,Lucas
-9/6/2024,Fri,Medium,400,Printing and Scanning,Printing Issues,Closed,9/18/2024,Henry
-9/6/2024,Fri,Medium,400,Desktop,Hardware Issues,Closed,9/11/2024,Henry
-9/6/2024,Fri,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,9/11/2024,Henry
-9/6/2024,Fri,Medium,400,Printing and Scanning,Printing Issues,Closed,9/11/2024,Sofia
-9/6/2024,Fri,Low,400,E-Mail,Add / Remove / Change,Closed,9/21/2024,Sofia
-9/6/2024,Fri,Low,500,Desktop,Desktop Management Enrollment Issues,Closed,9/15/2024,Lucas
-9/6/2024,Fri,Low,600,E-Mail,Add / Remove / Change,Closed,9/15/2024,Henry
-9/6/2024,Fri,Low,600,Desktop,Desktop Management Enrollment Issues,Closed,9/9/2024,Sofia
-9/6/2024,Fri,High,700,Internet and Network Connectivity,Admin Network Down,Closed,9/14/2024,Henry
-9/6/2024,Fri,Medium,700,Printing and Scanning,Printing/Scanning Issue,Closed,9/15/2024,Henry
-9/6/2024,Fri,Medium,800,Desktop,Reconnect,Closed,9/9/2024,Sofia
-9/9/2024,Mon,Medium,800,Security Operations,Malicious Spam (CAT 13),Closed,9/9/2024,Sofia
-9/9/2024,Mon,Low,800,Desktop,Application Issues - Desktop,Closed,9/23/2024,Lucas
-9/9/2024,Mon,Medium,800,Login,Login issues,Closed,9/10/2024,Lucas
-9/9/2024,Mon,Medium,800,Printing and Scanning,Printing Issues,Closed,9/15/2024,Sofia
-9/9/2024,Mon,Low,100,E-Mail,Add / Remove / Change,Closed,9/16/2024,Sofia
-9/9/2024,Mon,Low,100,E-Mail,Add / Remove / Change,Closed,9/25/2024,Henry
-9/9/2024,Mon,Low,100,Internet and Network Connectivity,Admin Network Down,Closed,9/10/2024,Sofia
-9/9/2024,Mon,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/10/2024,Sofia
-9/9/2024,Mon,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,10/5/2024,Sofia
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Henry
-9/9/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/15/2024,Sofia
-9/9/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,9/22/2024,Liam
-9/9/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,9/15/2024,Liam
-9/9/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,9/16/2024,Liam
+9/5/2024,Thu,Low,800,Desktop,Connectivity,Closed,9/8/2024,Sofia
+9/5/2024,Thu,Medium,800,Security,CAT 3 Code,Closed,9/8/2024,Sofia
+9/5/2024,Thu,Medium,800,E-Mail,Login,Closed,9/17/2024,Sofia
+9/6/2024,Fri,Low,100,Login,Login,Closed,9/16/2024,Lucas
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/17/2024,Isabella
+9/6/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Isabella
+9/6/2024,Fri,Low,100,Desktop,Connectivity,Pending,9/10/2024,Lucas
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/22/2024,Sofia
+9/6/2024,Fri,Low,100,Connectivity ,Network,Pending,9/15/2024,Sofia
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/22/2024,Liam
+9/6/2024,Fri,Medium,100,Login,Login,Pending,9/30/2024,Isabella
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/10/2024,Sofia
+9/6/2024,Fri,Low,100,Login,Login,Pending,9/17/2024,Sofia
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/14/2024,Sofia
+9/6/2024,Fri,Medium,100,Desktop,Connectivity,Pending,9/21/2024,Isabella
+9/6/2024,Fri,Low,100,Login,Login,Pending,9/10/2024,Isabella
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/10/2024,Isabella
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/22/2024,Isabella
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/15/2024,Liam
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/15/2024,Liam
+9/6/2024,Fri,Medium,100,Desktop,Connectivity,Pending,9/17/2024,Isabella
+9/6/2024,Fri,Medium,100,Desktop,Connectivity,Pending,9/14/2024,Sofia
+9/6/2024,Fri,Low,100,Desktop,Connectivity,Pending,9/10/2024,Lucas
+9/6/2024,Fri,Medium,100,Connectivity ,Network,Pending,9/17/2024,Sofia
+9/6/2024,Fri,Medium,100,Connectivity ,Network,Pending,9/14/2024,Sofia
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/14/2024,Sofia
+9/6/2024,Fri,Medium,100,Login,Login,Pending,9/22/2024,Sofia
+9/6/2024,Fri,Low,100,Desktop,Connectivity,Pending,9/10/2024,Lucas
+9/6/2024,Fri,Low,100,Login,Login,Pending,9/24/2024,Isabella
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/14/2024,Isabella
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/14/2024,Isabella
+9/6/2024,Fri,Medium,100,Login,Login,Pending,9/17/2024,Sofia
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/10/2024,Sofia
+9/6/2024,Fri,Medium,100,Security,CAT 3 Code,Pending,9/16/2024,Sofia
+9/6/2024,Fri,Medium,100,Connectivity ,Network,Pending,9/23/2024,Isabella
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/23/2024,Isabella
+9/6/2024,Fri,Medium,100,Login,Login,Pending,9/22/2024,Isabella
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/23/2024,Sofia
+9/6/2024,Fri,Low,100,Security,CAT 3 Code,Pending,9/23/2024,Sofia
+9/6/2024,Fri,Low,100,Login,Login,Pending,9/9/2024,Liam
+9/6/2024,Fri,Low,100,Desktop,Connectivity,Pending,9/10/2024,Lucas
+9/6/2024,Fri,Low,100,Connectivity ,Network,Pending,9/9/2024,Isabella
+9/6/2024,Fri,Low,100,Login,Login,Pending,9/11/2024,Isabella
+9/6/2024,Fri,Medium,200,Desktop,Connectivity,Pending,9/15/2024,Sofia
+9/6/2024,Fri,Medium,200,Login,Login,Pending,9/29/2024,Sofia
+9/6/2024,Fri,Low,200,Login,Login,Pending,9/23/2024,Lucas
+9/6/2024,Fri,Medium,200,Desktop,Connectivity,Pending,9/9/2024,Lucas
+9/6/2024,Fri,Low,200,Connectivity ,Network,Pending,9/23/2024,Sofia
+9/6/2024,Fri,Medium,200,Desktop,Connectivity,Pending,9/9/2024,Sofia
+9/6/2024,Fri,High,200,Security,CAT 3 Code,Pending,9/10/2024,Isabella
+9/6/2024,Fri,High,200,Security,CAT 3 Code,Pending,9/16/2024,Isabella
+9/6/2024,Fri,Medium,200,Security,CAT 3 Code,Pending,9/17/2024,Sofia
+9/6/2024,Fri,Low,200,Connectivity ,Network,Pending,9/17/2024,Sofia
+9/6/2024,Fri,Medium,200,Login,Login,Pending,9/11/2024,Lucas
+9/6/2024,Fri,Low,200,Desktop,Connectivity,Pending,9/9/2024,Lucas
+9/6/2024,Fri,Low,200,Desktop,Connectivity,Pending,9/9/2024,Lucas
+9/6/2024,Fri,Low,200,Desktop,Connectivity,Pending,9/9/2024,Lucas
+9/6/2024,Fri,Medium,200,Login,Login,Pending,9/22/2024,Sofia
+9/6/2024,Fri,Medium,200,Security,CAT 3 Code,Pending,9/10/2024,Sofia
+9/6/2024,Fri,Low,200,Security,CAT 3 Code,Pending,9/23/2024,Sofia
+9/6/2024,Fri,High,200,Security,CAT 3 Code,Pending,9/30/2024,Henry
+9/6/2024,Fri,Low,300,Login,Login,Pending,9/18/2024,Lucas
+9/6/2024,Fri,Medium,300,Connectivity ,Network,Closed,9/9/2024,Lucas
+9/6/2024,Fri,Medium,300,Login,Login,Closed,9/22/2024,Lucas
+9/6/2024,Fri,Medium,400,Security,CAT 3 Code,Closed,9/18/2024,Isabella
+9/6/2024,Fri,Medium,400,Desktop,Connectivity,Closed,9/11/2024,Isabella
+9/6/2024,Fri,Low,400,Connectivity ,Network,Closed,9/11/2024,Isabella
+9/6/2024,Fri,Medium,400,Security,CAT 3 Code,Closed,9/11/2024,Sofia
+9/6/2024,Fri,Low,400,E-Mail,Login,Closed,9/21/2024,Sofia
+9/6/2024,Fri,Low,500,Desktop,Connectivity,Closed,9/15/2024,Lucas
+9/6/2024,Fri,Low,600,E-Mail,Login,Closed,9/15/2024,Isabella
+9/6/2024,Fri,Low,600,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/6/2024,Fri,High,700,Connectivity ,Network,Closed,9/14/2024,Isabella
+9/6/2024,Fri,Medium,700,Security,CAT 3 Code,Closed,9/15/2024,Isabella
+9/6/2024,Fri,Medium,800,Desktop,Connectivity,Closed,9/9/2024,Sofia
+9/9/2024,Mon,Medium,800,Security,CAT 3 Code,Closed,9/9/2024,Sofia
+9/9/2024,Mon,Low,800,Desktop,Connectivity,Closed,9/23/2024,Lucas
+9/9/2024,Mon,Medium,800,Login,Login,Closed,9/10/2024,Lucas
+9/9/2024,Mon,Medium,800,Security,CAT 3 Code,Closed,9/15/2024,Sofia
+9/9/2024,Mon,Low,100,E-Mail,Login,Closed,9/16/2024,Sofia
+9/9/2024,Mon,Low,100,E-Mail,Login,Closed,9/25/2024,Isabella
+9/9/2024,Mon,Low,100,Connectivity ,Network,Closed,9/10/2024,Sofia
+9/9/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/10/2024,Sofia
+9/9/2024,Mon,Low,100,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/18/2024,Isabella
+9/9/2024,Mon,Medium,100,Desktop,Connectivity,Closed,9/15/2024,Sofia
+9/9/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/9/2024,Mon,Medium,100,Desktop,Connectivity,Closed,9/15/2024,Liam
+9/9/2024,Mon,Medium,100,Desktop,Connectivity,Closed,9/16/2024,Liam
 9/9/2024,Mon,Low,100,Login,Login,Closed,10/1/2024,Sofia
-9/9/2024,Mon,Medium,100,Login,Login,Closed,9/18/2024,Henry
-9/9/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/9/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/9/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
-9/9/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/24/2024,Henry
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/18/2024,Isabella
+9/9/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/18/2024,Isabella
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/24/2024,Isabella
 9/9/2024,Mon,Low,100,Login,Login,Closed,9/17/2024,Sofia
-9/9/2024,Mon,Low,100,Login,Login issues,Closed,9/15/2024,Liam
-9/9/2024,Mon,Low,100,Login,Login,Closed,10/1/2024,Henry
-9/9/2024,Mon,Medium,100,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Lucas
-9/9/2024,Mon,Low,100,E-Mail,Add / Remove / Change,Closed,9/25/2024,Henry
-9/9/2024,Mon,Medium,100,Login,Login,Closed,9/15/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/16/2024,Henry
+9/9/2024,Mon,Low,100,Login,Login,Closed,9/15/2024,Liam
+9/9/2024,Mon,Low,100,Login,Login,Closed,10/1/2024,Isabella
+9/9/2024,Mon,Medium,100,Connectivity ,Network,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Low,100,E-Mail,Login,Closed,9/25/2024,Isabella
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/15/2024,Isabella
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/16/2024,Isabella
 9/9/2024,Mon,Low,100,Login,Login,Closed,10/8/2024,Liam
-9/9/2024,Mon,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/11/2024,Sofia
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/22/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/11/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/11/2024,Henry
-9/9/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,9/17/2024,Sofia
+9/9/2024,Mon,Low,100,Connectivity ,Network,Closed,9/11/2024,Sofia
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Isabella
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Low,100,Connectivity ,Network,Closed,9/11/2024,Isabella
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/11/2024,Isabella
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/17/2024,Sofia
 9/9/2024,Mon,Medium,200,Login,Login,Closed,9/23/2024,Sofia
-9/9/2024,Mon,Medium,200,Internet and Network Connectivity,Network/Internet Outage,Closed,9/22/2024,Liam
-9/9/2024,Mon,Medium,200,Desktop,Reconnect,Closed,9/24/2024,Liam
-9/9/2024,Mon,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Reconnect,Closed,9/11/2024,Sofia
-9/9/2024,Mon,Low,200,Login,Login,Closed,10/1/2024,Henry
-9/9/2024,Mon,Low,200,Printing and Scanning,Printing Issues,Closed,9/24/2024,Sofia
-9/9/2024,Mon,Medium,200,Printing and Scanning,Printing/Scanning Issue,Closed,9/17/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Reconnect,Closed,9/17/2024,Sofia
-9/9/2024,Mon,Medium,200,Internet and Network Connectivity,WiFi connectivity Issues,Closed,9/11/2024,Lucas
-9/9/2024,Mon,Medium,200,Desktop,Reconnect,Closed,9/11/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Reconnect,Closed,9/14/2024,Sofia
-9/9/2024,Mon,Medium,200,Printing and Scanning,Printing Issues,Closed,10/14/2024,Sofia
-9/9/2024,Mon,High,200,Internet and Network Connectivity,Network/Internet Outage,Closed,9/14/2024,Henry
-9/9/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,9/14/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,9/14/2024,Sofia
-9/9/2024,Mon,Medium,200,Internet and Network Connectivity,Wiring Repairs,Closed,9/23/2024,Sofia
-9/9/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,9/17/2024,Sofia
-9/9/2024,Mon,High,300,Printing and Scanning,Printing/Scanning Issue,Closed,9/11/2024,Sofia
+9/9/2024,Mon,Medium,200,Connectivity ,Network,Closed,9/22/2024,Liam
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/24/2024,Liam
+9/9/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/11/2024,Sofia
+9/9/2024,Mon,Low,200,Login,Login,Closed,10/1/2024,Isabella
+9/9/2024,Mon,Low,200,Security,CAT 3 Code,Closed,9/24/2024,Sofia
+9/9/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/17/2024,Sofia
+9/9/2024,Mon,Medium,200,Connectivity ,Network,Closed,9/11/2024,Lucas
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/11/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Connectivity,Closed,9/14/2024,Sofia
+9/9/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/14/2024,Sofia
+9/9/2024,Mon,High,200,Connectivity ,Network,Closed,9/14/2024,Henry
+9/9/2024,Mon,Medium,200,Desktop,Intune Staff Group,Closed,9/14/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Intune Staff Group,Closed,9/14/2024,Sofia
+9/9/2024,Mon,Medium,200,Connectivity ,Network,Closed,9/23/2024,Sofia
+9/9/2024,Mon,Medium,200,Desktop,Intune Staff Group,Closed,9/17/2024,Sofia
+9/9/2024,Mon,High,300,Security,CAT 3 Code,Closed,9/11/2024,Sofia
 9/9/2024,Mon,Low,300,Login,Login,Closed,9/11/2024,Henry
-9/9/2024,Mon,Medium,400,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/9/2024,Mon,Medium,500,Printing and Scanning,Printing Issues,Canceled,9/13/2024,Henry
-9/9/2024,Mon,Low,500,Desktop,Add Desktop to Intune Staff Group,Closed,9/11/2024,Lucas
-9/9/2024,Mon,Low,600,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Low,700,Internet and Network Connectivity,Connectivity Issues,Closed,9/10/2024,Sofia
-9/10/2024,Tue,Low,700,Internet and Network Connectivity,Connectivity Issues,Closed,10/2/2024,Sofia
-9/10/2024,Tue,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,10/19/2024,Sofia
+9/9/2024,Mon,Medium,400,Security,CAT 3 Code,Closed,9/23/2024,Sofia
+9/9/2024,Mon,Medium,500,Security,CAT 3 Code,Canceled,9/13/2024,Henry
+9/9/2024,Mon,Low,500,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/9/2024,Mon,Low,600,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Low,700,Connectivity ,Network,Closed,9/10/2024,Sofia
+9/10/2024,Tue,Low,700,Connectivity ,Network,Closed,10/2/2024,Sofia
+9/10/2024,Tue,Low,700,Desktop,Intune Staff Group,Closed,10/19/2024,Sofia
 9/10/2024,Tue,Low,700,Login,Login,Closed,9/14/2024,Lucas
 9/10/2024,Tue,Low,800,Login,Login,Closed,9/24/2024,Sofia
 9/10/2024,Tue,Low,800,Login,Login,Closed,9/22/2024,Sofia
-9/10/2024,Tue,Low,800,Printing and Scanning,Printing Issues,Closed,9/18/2024,Sofia
-9/10/2024,Tue,Low,800,Printing and Scanning,Printing Issues,Closed,9/24/2024,Henry
-9/10/2024,Tue,Medium,800,Desktop,Reconnect,Closed,9/15/2024,Sofia
-9/10/2024,Tue,Low,800,Login,Login issues,Closed,9/23/2024,Henry
-9/10/2024,Tue,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/18/2024,Henry
-9/10/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Henry
-9/10/2024,Tue,Medium,100,Desktop,Hardware Issues,Closed,9/15/2024,Liam
-9/10/2024,Tue,Low,100,Desktop,Reconnect,Closed,9/22/2024,Liam
-9/10/2024,Tue,Medium,100,Desktop,Reconnect,Closed,9/18/2024,Henry
-9/10/2024,Tue,Medium,100,Desktop,Boot-Up Errors,Closed,9/29/2024,Liam
-9/10/2024,Tue,Medium,100,Desktop,Reimage Desktop,Closed,9/29/2024,Liam
-9/10/2024,Tue,Low,100,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Low,800,Security,CAT 3 Code,Closed,9/18/2024,Sofia
+9/10/2024,Tue,Low,800,Security,CAT 3 Code,Closed,9/24/2024,Henry
+9/10/2024,Tue,Medium,800,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/10/2024,Tue,Low,800,Login,Login,Closed,9/23/2024,Henry
+9/10/2024,Tue,Low,100,Connectivity ,Network,Closed,9/18/2024,Henry
+9/10/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,9/18/2024,Henry
+9/10/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Liam
+9/10/2024,Tue,Low,100,Desktop,Intune Staff Group,Closed,9/22/2024,Liam
+9/10/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Henry
+9/10/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/29/2024,Liam
+9/10/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/29/2024,Liam
+9/10/2024,Tue,Low,100,Security,CAT 3 Code,Closed,9/17/2024,Sofia
 9/10/2024,Tue,Low,100,Login,Login,Closed,9/22/2024,Henry
-9/10/2024,Tue,Medium,100,E-Mail,Add / Remove / Change,Closed,9/15/2024,Liam
-9/10/2024,Tue,Medium,100,E-Mail,Add / Remove / Change,Closed,9/15/2024,Liam
-9/10/2024,Tue,Medium,100,Printing and Scanning,Printing from Wrong Tray,Closed,9/22/2024,Henry
+9/10/2024,Tue,Medium,100,E-Mail,Login,Closed,9/15/2024,Liam
+9/10/2024,Tue,Medium,100,E-Mail,Login,Closed,9/15/2024,Liam
+9/10/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Henry
 9/10/2024,Tue,Medium,100,Login,Login,Closed,9/15/2024,Lucas
-9/10/2024,Tue,Medium,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,9/22/2024,Sofia
+9/10/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Medium,100,Connectivity ,Network,Closed,9/22/2024,Sofia
 9/10/2024,Tue,Medium,100,Login,Login,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Liam
-9/10/2024,Tue,Low,100,Printing and Scanning,Printer - Move-Add-Change Request,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Low,100,Printing and Scanning,Printing Issues,Closed,10/1/2024,Sofia
-9/10/2024,Tue,Medium,100,Login,Login issues,Closed,9/23/2024,Lucas
-9/10/2024,Tue,Low,100,Login,Login issues,Closed,10/6/2024,Lucas
-9/10/2024,Tue,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,9/24/2024,Sofia
+9/10/2024,Tue,Medium,100,Connectivity ,Network,Closed,9/25/2024,Liam
+9/10/2024,Tue,Low,100,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Low,100,Security,CAT 3 Code,Closed,10/1/2024,Sofia
+9/10/2024,Tue,Medium,100,Login,Login,Closed,9/23/2024,Lucas
+9/10/2024,Tue,Low,100,Login,Login,Closed,10/6/2024,Lucas
+9/10/2024,Tue,Low,100,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Low,100,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Medium,100,Connectivity ,Network,Closed,9/24/2024,Sofia
 9/10/2024,Tue,Medium,100,Login,Login,Closed,9/15/2024,Lucas
 9/10/2024,Tue,Low,100,Login,Login,Closed,9/29/2024,Sofia
 9/10/2024,Tue,Low,100,Login,Login,Closed,9/14/2024,Lucas
-9/10/2024,Tue,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/22/2024,Henry
-9/10/2024,Tue,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Sofia
-9/10/2024,Tue,Medium,200,Desktop,Reimage Desktop,Canceled,9/15/2024,Liam
-9/10/2024,Tue,Medium,200,Desktop,Hardware Issues,Closed,9/14/2024,Sofia
+9/10/2024,Tue,Low,100,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/10/2024,Tue,Low,200,Connectivity ,Network,Closed,9/25/2024,Sofia
+9/10/2024,Tue,Medium,200,Desktop,Intune Staff Group,Canceled,9/15/2024,Liam
+9/10/2024,Tue,Medium,200,Desktop,Intune Staff Group,Closed,9/14/2024,Sofia
 9/10/2024,Tue,Low,200,Login,Login,Closed,9/23/2024,Sofia
-9/10/2024,Tue,Medium,200,Desktop,Hardware Issues,Closed,9/22/2024,Liam
-9/10/2024,Tue,Medium,200,Desktop,Hardware Issues,Closed,9/21/2024,Sofia
-9/10/2024,Tue,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/22/2024,Henry
-9/10/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/10/2024,Tue,Low,200,Printing and Scanning,Printing Issues,Closed,9/22/2024,Sofia
-9/10/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/21/2024,Henry
-9/10/2024,Tue,Low,200,Printing and Scanning,Printing Issues,Closed,9/21/2024,Sofia
-9/10/2024,Tue,Medium,200,Desktop,Reconnect,Canceled,9/15/2024,Henry
-9/10/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/10/2024,Tue,Low,300,Internet and Network Connectivity,Admin Network Down,Closed,9/11/2024,Sofia
-9/10/2024,Tue,Medium,300,Desktop,Hardware Issues,Closed,10/8/2024,Henry
+9/10/2024,Tue,Medium,200,Desktop,Intune Staff Group,Closed,9/22/2024,Liam
+9/10/2024,Tue,Medium,200,Desktop,Intune Staff Group,Closed,9/21/2024,Sofia
+9/10/2024,Tue,Low,200,Connectivity ,Network,Closed,9/22/2024,Henry
+9/10/2024,Tue,Medium,200,Security,CAT 3 Code,Closed,9/23/2024,Sofia
+9/10/2024,Tue,Low,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/10/2024,Tue,Medium,200,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Low,200,Connectivity ,Network,Closed,9/21/2024,Henry
+9/10/2024,Tue,Low,200,Security,CAT 3 Code,Closed,9/21/2024,Sofia
+9/10/2024,Tue,Medium,200,Desktop,Intune Staff Group,Canceled,9/15/2024,Henry
+9/10/2024,Tue,Medium,200,Security,CAT 3 Code,Closed,9/23/2024,Sofia
+9/10/2024,Tue,Low,300,Connectivity ,Network,Closed,9/11/2024,Sofia
+9/10/2024,Tue,Medium,300,Desktop,Intune Staff Group,Closed,10/8/2024,Henry
 9/10/2024,Tue,Medium,300,Login,Login,Closed,10/1/2024,Sofia
-9/10/2024,Tue,Low,300,Printing and Scanning,Printing Issues,Closed,10/1/2024,Sofia
+9/10/2024,Tue,Low,300,Security,CAT 3 Code,Closed,10/1/2024,Sofia
 9/10/2024,Tue,Medium,300,Login,Login,Closed,10/1/2024,Sofia
-9/10/2024,Tue,Low,400,E-Mail,Add / Remove / Change,Closed,9/17/2024,Henry
-9/10/2024,Tue,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,9/14/2024,Henry
-9/10/2024,Tue,Medium,400,Internet and Network Connectivity,Connectivity Issues,Closed,9/16/2024,Sofia
-9/10/2024,Tue,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/11/2024,Lucas
-9/10/2024,Tue,Medium,700,Desktop,Hardware Issues,Closed,9/17/2024,Sofia
-9/10/2024,Tue,Medium,700,Desktop,Won't turn on,Closed,9/15/2024,Sofia
-9/10/2024,Tue,Medium,800,Printing and Scanning,Printing Issues,Closed,10/7/2024,Sofia
-9/10/2024,Tue,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,9/11/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/9/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
-9/9/2024,Mon,High,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
-9/9/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Low,800,,,Closed,9/22/2024,Lucas
-9/9/2024,Mon,Low,800,,,Closed,9/22/2024,Lucas
-9/9/2024,Mon,Medium,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/15/2024,Henry
-9/9/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/16/2024,Sofia
-9/10/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/25/2024,Henry
-9/11/2024,Wed,Low,200,Login,New user access,Canceled,9/13/2024,Henry
-9/11/2024,Wed,Low,100,Desktop,Application Issues - Desktop,Closed,9/16/2024,Sofia
-9/11/2024,Wed,Low,100,Internet and Network Connectivity,Instructional Network Down,Closed,9/29/2024,Sofia
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/29/2024,Sofia
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Henry
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Henry
+9/10/2024,Tue,Low,400,E-Mail,Login,Closed,9/17/2024,Henry
+9/10/2024,Tue,Low,400,Connectivity ,Network,Closed,9/14/2024,Henry
+9/10/2024,Tue,Medium,400,Connectivity ,Network,Closed,9/16/2024,Sofia
+9/10/2024,Tue,Low,700,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Low,700,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Low,700,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Low,700,Desktop,Intune Staff Group,Closed,9/11/2024,Lucas
+9/10/2024,Tue,Medium,700,Desktop,Intune Staff Group,Closed,9/17/2024,Sofia
+9/10/2024,Tue,Medium,700,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/10/2024,Tue,Medium,800,Security,CAT 3 Code,Closed,10/7/2024,Sofia
+9/10/2024,Tue,Low,800,Connectivity ,Network,Closed,9/11/2024,Henry
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/9/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Henry
+9/9/2024,Mon,High,400,Login,Login,Closed,9/22/2024,Henry
+9/9/2024,Mon,Medium,800,Login,Login,Closed,9/22/2024,Sofia
+9/9/2024,Mon,Low,800,Desktop,Connectivity,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Low,800,Desktop,Connectivity,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Henry
+9/9/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
+9/10/2024,Tue,Medium,200,Security,CAT 3 Code,Closed,9/25/2024,Henry
+9/11/2024,Wed,Low,200,Login,Login,Canceled,9/13/2024,Henry
+9/11/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
+9/11/2024,Wed,Low,100,Connectivity ,Network,Closed,9/29/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/23/2024,Henry
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Henry
 9/11/2024,Wed,Medium,100,Login,Login,Closed,9/21/2024,Henry
 9/11/2024,Wed,Low,100,Login,Login,Closed,10/1/2024,Henry
 9/11/2024,Wed,Low,100,Login,Login,Closed,9/21/2024,Henry
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/24/2024,Henry
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/24/2024,Henry
-9/11/2024,Wed,Medium,100,Desktop,Reconnect,Closed,9/16/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/24/2024,Henry
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/24/2024,Henry
+9/11/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
 9/11/2024,Wed,Medium,100,Login,Login,Closed,9/16/2024,Henry
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Sofia
-9/11/2024,Wed,High,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Sofia
-9/11/2024,Wed,Medium,100,Desktop,Reimage Desktop,Closed,9/18/2024,Sofia
-9/11/2024,Wed,Low,100,Desktop,Inactive-Update Issue,Closed,9/18/2024,Sofia
-9/11/2024,Wed,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/16/2024,Sofia
-9/11/2024,Wed,Medium,100,Login,Application enhancement,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/18/2024,Sofia
+9/11/2024,Wed,High,100,Security,CAT 3 Code,Closed,9/18/2024,Sofia
+9/11/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/11/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/11/2024,Wed,Low,100,Connectivity ,Network,Closed,9/16/2024,Sofia
+9/11/2024,Wed,Medium,100,Login,Login,Closed,9/22/2024,Sofia
 9/11/2024,Wed,Low,100,Login,Login,Closed,9/22/2024,Henry
-9/11/2024,Wed,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/14/2024,Lucas
+9/11/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/14/2024,Lucas
 9/11/2024,Wed,Low,100,Login,Login,Closed,9/18/2024,Lucas
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/11/2024,Wed,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/15/2024,Henry
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/11/2024,Wed,Low,100,Security,CAT 3 Code,Closed,9/15/2024,Henry
 9/11/2024,Wed,Low,100,Login,Login,Closed,9/15/2024,Sofia
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
-9/11/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Sofia
-9/11/2024,Wed,High,100,Printing and Scanning,Printing Issues,Closed,9/22/2024,Liam
-9/11/2024,Wed,Low,100,Desktop,Reconnect,Closed,10/8/2024,Sofia
-9/11/2024,Wed,Low,100,Desktop,Inactive-Update Issue,Closed,10/6/2024,Sofia
-9/11/2024,Wed,Medium,100,Desktop,Boot-Up Errors,Closed,9/21/2024,Sofia
-9/11/2024,Wed,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/17/2024,Sofia
+9/11/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/18/2024,Sofia
+9/11/2024,Wed,High,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/11/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,10/8/2024,Sofia
+9/11/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,10/6/2024,Sofia
+9/11/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/21/2024,Sofia
+9/11/2024,Wed,Medium,100,Login,Login,Closed,9/22/2024,Sofia
 9/11/2024,Wed,Low,100,Login,Login,Closed,9/22/2024,Liam
-9/11/2024,Wed,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,9/21/2024,Sofia
-9/11/2024,Wed,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/14/2024,Henry
+9/11/2024,Wed,Medium,100,Connectivity ,Network,Closed,9/21/2024,Sofia
+9/11/2024,Wed,Low,100,Security,CAT 3 Code,Closed,9/14/2024,Henry
 9/11/2024,Wed,Low,200,Login,Login,Closed,9/30/2024,Sofia
-9/11/2024,Wed,Medium,200,Printing and Scanning,Printing Issues,Closed,9/22/2024,Liam
-9/11/2024,Wed,Medium,200,Login,Add / Edit / Remove Application,Closed,9/22/2024,Liam
-9/11/2024,Wed,Low,200,Printing and Scanning,Printer - Move-Add-Change Request,Closed,9/22/2024,Henry
-9/11/2024,Wed,Medium,200,Printing and Scanning,Printing Issues,Closed,10/1/2024,Henry
-9/11/2024,Wed,High,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/16/2024,Henry
-9/11/2024,Wed,Medium,200,Printing and Scanning,Printing Issues,Closed,9/29/2024,Sofia
-9/11/2024,Wed,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/11/2024,Wed,Low,300,Login,Login issues,Closed,10/13/2024,Henry
-9/11/2024,Wed,Medium,300,Internet and Network Connectivity,Connectivity Issues,Closed,9/22/2024,Sofia
-9/11/2024,Wed,Low,300,Login,Login issues,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/11/2024,Wed,Medium,200,Login,Login,Closed,9/22/2024,Liam
+9/11/2024,Wed,Low,200,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/11/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,10/1/2024,Henry
+9/11/2024,Wed,High,200,Connectivity ,Network,Closed,9/16/2024,Henry
+9/11/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/11/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Low,300,Login,Login,Closed,10/13/2024,Henry
+9/11/2024,Wed,Medium,300,Connectivity ,Network,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Low,300,Login,Login,Closed,9/22/2024,Sofia
 9/11/2024,Wed,Low,300,Login,Login,Closed,10/6/2024,Sofia
-9/11/2024,Wed,Low,300,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Henry
+9/11/2024,Wed,Low,300,Connectivity ,Network,Closed,9/25/2024,Henry
 9/11/2024,Wed,Low,300,Login,Login,Closed,10/13/2024,Sofia
-9/11/2024,Wed,Low,300,Printing and Scanning,Printing Issues,Closed,10/1/2024,Sofia
-9/11/2024,Wed,Medium,300,Printing and Scanning,Printing Issues,Closed,10/1/2024,Sofia
-9/11/2024,Wed,Medium,400,Desktop,Reimage Desktop,Closed,9/29/2024,Henry
+9/11/2024,Wed,Low,300,Security,CAT 3 Code,Closed,10/1/2024,Sofia
+9/11/2024,Wed,Medium,300,Security,CAT 3 Code,Closed,10/1/2024,Sofia
+9/11/2024,Wed,Medium,400,Desktop,Intune Staff Group,Closed,9/29/2024,Henry
 9/11/2024,Wed,High,400,Login,Login,Closed,9/14/2024,Henry
-9/11/2024,Wed,Medium,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/11/2024,Wed,Medium,400,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/11/2024,Wed,Medium,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/11/2024,Wed,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,9/15/2024,Lucas
-9/11/2024,Wed,Medium,400,Printing and Scanning,Printing Issues,Closed,9/22/2024,Sofia
-9/11/2024,Wed,Medium,400,Printing and Scanning,Printing Issues,Closed,10/2/2024,Sofia
-9/11/2024,Wed,Medium,500,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/21/2024,Henry
-9/11/2024,Wed,Medium,500,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/21/2024,Henry
-9/11/2024,Wed,Medium,500,Desktop,Hardware Issues,Closed,9/21/2024,Henry
-9/11/2024,Wed,Medium,500,Desktop,Reconnect,Closed,9/24/2024,Henry
-9/11/2024,Wed,Medium,600,Printing and Scanning,Printing Issues,Closed,9/21/2024,Sofia
-9/11/2024,Wed,Medium,600,Printing and Scanning,Printing Issues,Closed,9/20/2024,Sofia
+9/11/2024,Wed,Medium,400,Login,Login,Closed,9/22/2024,Lucas
+9/11/2024,Wed,Medium,400,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Medium,400,Login,Login,Closed,9/22/2024,Lucas
+9/11/2024,Wed,Low,400,Desktop,Intune Staff Group,Closed,9/15/2024,Lucas
+9/11/2024,Wed,Medium,400,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Medium,400,Security,CAT 3 Code,Closed,10/2/2024,Sofia
+9/11/2024,Wed,Medium,500,Connectivity ,Network,Closed,9/21/2024,Henry
+9/11/2024,Wed,Medium,500,Connectivity ,Network,Closed,9/21/2024,Henry
+9/11/2024,Wed,Medium,500,Desktop,Intune Staff Group,Closed,9/21/2024,Henry
+9/11/2024,Wed,Medium,500,Desktop,Intune Staff Group,Closed,9/24/2024,Henry
+9/11/2024,Wed,Medium,600,Security,CAT 3 Code,Closed,9/21/2024,Sofia
+9/11/2024,Wed,Medium,600,Security,CAT 3 Code,Closed,9/20/2024,Sofia
 9/11/2024,Wed,Low,700,Login,Login,Closed,9/14/2024,Lucas
-9/11/2024,Wed,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,9/17/2024,Sofia
-9/11/2024,Wed,Medium,800,Printing and Scanning,Printing Issues,Closed,9/14/2024,Henry
-9/11/2024,Wed,Low,800,Login,Login issues,Closed,9/15/2024,Henry
-9/11/2024,Wed,Medium,800,Printing and Scanning,Printing Issues,Closed,9/17/2024,Henry
-9/11/2024,Wed,Low,800,Login,Login issues,Closed,9/16/2024,Sofia
-9/11/2024,Wed,Low,800,Printing and Scanning,Printing/Scanning Issue,Closed,9/16/2024,Lucas
-9/12/2024,Thu,Low,100,Desktop,Hardware Issues,Closed,9/20/2024,Sofia
-9/12/2024,Thu,Low,100,Internet and Network Connectivity,Admin Network Down,Closed,9/25/2024,Liam
-9/12/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/22/2024,Liam
-9/12/2024,Thu,Medium,100,Desktop,Reimage Desktop,Closed,10/8/2024,Liam
-9/12/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/18/2024,Henry
-9/12/2024,Thu,Medium,100,Desktop,Hardware Issues,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,100,Internet and Network Connectivity,Access to Wireless Network - SSID,Closed,9/30/2024,Henry
-9/12/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
+9/11/2024,Wed,Low,800,Connectivity ,Network,Closed,9/17/2024,Sofia
+9/11/2024,Wed,Medium,800,Security,CAT 3 Code,Closed,9/14/2024,Henry
+9/11/2024,Wed,Low,800,Login,Login,Closed,9/15/2024,Henry
+9/11/2024,Wed,Medium,800,Security,CAT 3 Code,Closed,9/17/2024,Henry
+9/11/2024,Wed,Low,800,Login,Login,Closed,9/16/2024,Sofia
+9/11/2024,Wed,Low,800,Security,CAT 3 Code,Closed,9/16/2024,Lucas
+9/12/2024,Thu,Low,100,Desktop,Intune Staff Group,Closed,9/20/2024,Sofia
+9/12/2024,Thu,Low,100,Connectivity ,Network,Closed,9/25/2024,Liam
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/8/2024,Liam
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/18/2024,Henry
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Low,100,Security,CAT 3 Code,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,100,Connectivity ,Network,Closed,9/30/2024,Henry
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/21/2024,Lucas
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/17/2024,Sofia
-9/12/2024,Thu,Low,100,Internet and Network Connectivity,Admin Network Down,Closed,9/30/2024,Henry
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/30/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/16/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/16/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/16/2024,Sofia
-9/12/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/16/2024,Sofia
+9/12/2024,Thu,Low,100,Connectivity ,Network,Closed,9/30/2024,Henry
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Low,100,Connectivity ,Network,Closed,9/30/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,9/16/2024,Sofia
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/16/2024,Henry
-9/12/2024,Thu,Medium,100,Desktop,Reimage Desktop,Closed,10/6/2024,Henry
-9/12/2024,Thu,High,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/15/2024,Liam
-9/12/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/28/2024,Sofia
+9/12/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/6/2024,Henry
+9/12/2024,Thu,High,100,Connectivity ,Network,Closed,9/15/2024,Liam
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/28/2024,Sofia
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/17/2024,Lucas
-9/12/2024,Thu,Low,100,Login,Login issues,Closed,10/5/2024,Sofia
+9/12/2024,Thu,Low,100,Login,Login,Closed,10/5/2024,Sofia
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/21/2024,Lucas
-9/12/2024,Thu,Medium,100,E-Mail,Add / Remove / Change,Closed,9/30/2024,Sofia
+9/12/2024,Thu,Medium,100,E-Mail,Login,Closed,9/30/2024,Sofia
 9/12/2024,Thu,Low,100,Login,Login,Closed,9/17/2024,Sofia
-9/12/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/23/2024,Sofia
-9/12/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/12/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/12/2024,Thu,Low,200,Desktop,Reimage Desktop,Closed,9/25/2024,Sofia
-9/12/2024,Thu,Low,200,Login,Access to Application - Application Software,Closed,10/13/2024,Lucas
-9/12/2024,Thu,Medium,200,Desktop,Hardware Issues,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,200,Internet and Network Connectivity,Slow Internet Connectivity,Closed,10/2/2024,Henry
-9/12/2024,Thu,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/12/2024,Thu,Low,200,Printing and Scanning,Printing/Scanning Issue,Closed,9/16/2024,Sofia
+9/12/2024,Thu,Low,100,Connectivity ,Network,Closed,9/23/2024,Sofia
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/12/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/12/2024,Thu,Low,200,Desktop,Intune Staff Group,Closed,9/25/2024,Sofia
+9/12/2024,Thu,Low,200,Login,Login,Closed,10/13/2024,Lucas
+9/12/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,200,Connectivity ,Network,Closed,10/2/2024,Henry
+9/12/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/12/2024,Thu,Low,200,Security,CAT 3 Code,Closed,9/16/2024,Sofia
 9/12/2024,Thu,Low,200,Login,Login,Closed,9/24/2024,Sofia
-9/12/2024,Thu,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
+9/12/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
 9/12/2024,Thu,Low,200,Login,Login,Closed,10/8/2024,Lucas
-9/12/2024,Thu,Medium,200,Desktop,Boot-Up Errors,Closed,9/17/2024,Lucas
-9/12/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,9/17/2024,Sofia
+9/12/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,9/17/2024,Lucas
+9/12/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,9/17/2024,Sofia
 9/12/2024,Thu,Low,200,Login,Login,Closed,10/6/2024,Henry
-9/12/2024,Thu,Medium,200,Desktop,Reimage Desktop,Closed,10/20/2024,Sofia
-9/12/2024,Thu,Medium,200,Desktop,Reimage Desktop,Closed,10/20/2024,Sofia
-9/12/2024,Thu,Medium,400,Desktop,Reimage Desktop,Closed,9/30/2024,Henry
-9/12/2024,Thu,Low,400,Login,Access to Application - Application Software,Closed,9/18/2024,Lucas
+9/12/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,10/20/2024,Sofia
+9/12/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,10/20/2024,Sofia
+9/12/2024,Thu,Medium,400,Desktop,Intune Staff Group,Closed,9/30/2024,Henry
 9/12/2024,Thu,Low,400,Login,Login,Closed,9/18/2024,Lucas
-9/12/2024,Thu,High,400,Login,Login issues,Closed,9/16/2024,Henry
-9/12/2024,Thu,High,400,Login,Login issues,Closed,9/16/2024,Henry
+9/12/2024,Thu,Low,400,Login,Login,Closed,9/18/2024,Lucas
+9/12/2024,Thu,High,400,Login,Login,Closed,9/16/2024,Henry
+9/12/2024,Thu,High,400,Login,Login,Closed,9/16/2024,Henry
 9/12/2024,Thu,Medium,600,Login,Login,Closed,9/18/2024,Lucas
-9/12/2024,Thu,Medium,600,Desktop,Reimage Desktop,Closed,9/18/2024,Lucas
-9/12/2024,Thu,Medium,600,Printing and Scanning,Printing Issues,Closed,9/15/2024,Sofia
-9/12/2024,Thu,Medium,600,Printing and Scanning,Printing from Wrong Tray,Closed,9/30/2024,Sofia
-9/12/2024,Thu,Medium,600,Desktop,Reimage Desktop,Closed,9/22/2024,Sofia
-9/12/2024,Thu,Low,700,Desktop,Add Desktop to Intune Staff Group,Closed,9/17/2024,Lucas
+9/12/2024,Thu,Medium,600,Desktop,Intune Staff Group,Closed,9/18/2024,Lucas
+9/12/2024,Thu,Medium,600,Security,CAT 3 Code,Closed,9/15/2024,Sofia
+9/12/2024,Thu,Medium,600,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/12/2024,Thu,Medium,600,Desktop,Intune Staff Group,Closed,9/22/2024,Sofia
+9/12/2024,Thu,Low,700,Desktop,Intune Staff Group,Closed,9/17/2024,Lucas
 9/12/2024,Thu,Low,800,Login,Login,Closed,10/1/2024,Sofia
-9/12/2024,Thu,Medium,800,Internet and Network Connectivity,Connectivity Issues,Canceled,9/18/2024,Lucas
-9/12/2024,Thu,Medium,800,Printing and Scanning,Printing Issues,Closed,10/7/2024,Sofia
-9/12/2024,Thu,Medium,800,Internet and Network Connectivity,WiFi connectivity Issues,Closed,9/24/2024,Lucas
-9/13/2024,Fri,Low,100,Login,Login issues,Closed,10/6/2024,Henry
-9/13/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/13/2024,Fri,Low,100,Login,Login issues,Closed,9/20/2024,Sofia
-9/13/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/13/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/21/2024,Sofia
-9/13/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/16/2024,Sofia
-9/13/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/17/2024,Lucas
-9/13/2024,Fri,Low,100,Desktop,Application Issues - Desktop,Closed,9/23/2024,Liam
-9/13/2024,Fri,Low,100,Printing and Scanning,Printing Issues,Closed,10/14/2024,Sofia
-9/13/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/13/2024,Sofia
-9/13/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
+9/12/2024,Thu,Medium,800,Connectivity ,Network,Canceled,9/18/2024,Lucas
+9/12/2024,Thu,Medium,800,Security,CAT 3 Code,Closed,10/7/2024,Sofia
+9/12/2024,Thu,Medium,800,Connectivity ,Network,Closed,9/24/2024,Lucas
+9/13/2024,Fri,Low,100,Login,Login,Closed,10/6/2024,Henry
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
 9/13/2024,Fri,Low,100,Login,Login,Closed,9/20/2024,Sofia
-9/13/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/16/2024,Lucas
-9/13/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Henry
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/21/2024,Sofia
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/16/2024,Sofia
+9/13/2024,Fri,Low,100,Desktop,Intune Staff Group,Closed,9/17/2024,Lucas
+9/13/2024,Fri,Low,100,Desktop,Intune Staff Group,Closed,9/23/2024,Liam
+9/13/2024,Fri,Low,100,Security,CAT 3 Code,Closed,10/14/2024,Sofia
+9/13/2024,Fri,Low,100,Connectivity ,Network,Closed,10/13/2024,Sofia
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/13/2024,Fri,Low,100,Login,Login,Closed,9/20/2024,Sofia
+9/13/2024,Fri,Low,100,Desktop,Intune Staff Group,Closed,9/16/2024,Lucas
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Henry
 9/13/2024,Fri,Low,100,Login,Login,Closed,10/1/2024,Henry
 9/13/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Lucas
-9/13/2024,Fri,Medium,100,Desktop,Reimage Desktop,Closed,9/18/2024,Sofia
-9/13/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/21/2024,Sofia
-9/13/2024,Fri,Low,100,Login,Login issues,Closed,9/22/2024,Henry
-9/13/2024,Fri,Medium,100,Desktop,Reconnect,Closed,9/17/2024,Sofia
-9/13/2024,Fri,Medium,100,Internet and Network Connectivity,Access to Wireless Network - SSID,Closed,9/25/2024,Liam
-9/13/2024,Fri,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,9/22/2024,Lucas
-9/13/2024,Fri,Medium,100,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Sofia
+9/13/2024,Fri,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/13/2024,Fri,Low,100,Connectivity ,Network,Closed,9/21/2024,Sofia
+9/13/2024,Fri,Low,100,Login,Login,Closed,9/22/2024,Henry
+9/13/2024,Fri,Medium,100,Desktop,Intune Staff Group,Closed,9/17/2024,Sofia
+9/13/2024,Fri,Medium,100,Connectivity ,Network,Closed,9/25/2024,Liam
+9/13/2024,Fri,Low,100,Desktop,Intune Staff Group,Closed,9/22/2024,Lucas
+9/13/2024,Fri,Medium,100,Connectivity ,Network,Closed,9/22/2024,Sofia
 9/13/2024,Fri,Low,100,Login,Login,Closed,9/23/2024,Liam
-9/13/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/23/2024,Liam
-9/13/2024,Fri,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
+9/13/2024,Fri,Low,100,Connectivity ,Network,Closed,9/23/2024,Liam
+9/13/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
 9/13/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Liam
-9/13/2024,Fri,Low,100,Printing and Scanning,Printer - Move-Add-Change Request,Closed,9/21/2024,Henry
-9/13/2024,Fri,Medium,200,Desktop,Reimage Desktop,Closed,9/18/2024,Sofia
-9/13/2024,Fri,Medium,200,Desktop,Reimage Desktop,Closed,9/18/2024,Lucas
+9/13/2024,Fri,Low,100,Security,CAT 3 Code,Closed,9/21/2024,Henry
+9/13/2024,Fri,Medium,200,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/13/2024,Fri,Medium,200,Desktop,Intune Staff Group,Closed,9/18/2024,Lucas
 9/13/2024,Fri,Low,200,Login,Login,Closed,9/23/2024,Sofia
-9/13/2024,Fri,Medium,200,Desktop,Hardware Issues,Closed,10/2/2024,Sofia
+9/13/2024,Fri,Medium,200,Desktop,Intune Staff Group,Closed,10/2/2024,Sofia
 9/13/2024,Fri,Low,200,Login,Login,Closed,10/9/2024,Liam
-9/13/2024,Fri,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/22/2024,Henry
-9/13/2024,Fri,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/30/2024,Henry
-9/13/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,10/6/2024,Sofia
-9/13/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,9/25/2024,Henry
+9/13/2024,Fri,Low,200,Connectivity ,Network,Closed,9/22/2024,Henry
+9/13/2024,Fri,Low,200,Connectivity ,Network,Closed,9/30/2024,Henry
+9/13/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/13/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,9/25/2024,Henry
 9/13/2024,Fri,Low,200,Login,Login,Closed,9/21/2024,Lucas
-9/13/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,10/9/2024,Sofia
-9/13/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,10/9/2024,Sofia
-9/13/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,9/29/2024,Sofia
-9/13/2024,Fri,Low,200,Desktop,Application Issues - Desktop,Closed,9/17/2024,Lucas
-9/13/2024,Fri,Medium,300,Desktop,Hardware Issues,Closed,9/23/2024,Henry
-9/13/2024,Fri,Medium,400,Desktop,Reconnect,Closed,9/17/2024,Henry
-9/13/2024,Fri,Medium,400,Desktop,Hardware Issues,Closed,9/29/2024,Henry
-9/13/2024,Fri,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,10/19/2024,Lucas
-9/13/2024,Fri,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,9/16/2024,Lucas
-9/13/2024,Fri,Low,500,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/23/2024,Sofia
-9/13/2024,Fri,Low,600,E-Mail,Add / Remove / Change,Closed,10/5/2024,Henry
-9/13/2024,Fri,Low,600,Login,Login issues,Closed,9/23/2024,Sofia
-9/13/2024,Fri,Low,700,Internet and Network Connectivity,Connectivity Issues,Closed,9/17/2024,Sofia
+9/13/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,10/9/2024,Sofia
+9/13/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,10/9/2024,Sofia
+9/13/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/13/2024,Fri,Low,200,Desktop,Intune Staff Group,Closed,9/17/2024,Lucas
+9/13/2024,Fri,Medium,300,Desktop,Intune Staff Group,Closed,9/23/2024,Henry
+9/13/2024,Fri,Medium,400,Desktop,Intune Staff Group,Closed,9/17/2024,Henry
+9/13/2024,Fri,Medium,400,Desktop,Intune Staff Group,Closed,9/29/2024,Henry
+9/13/2024,Fri,Low,400,Desktop,Intune Staff Group,Closed,10/19/2024,Lucas
+9/13/2024,Fri,Low,400,Desktop,Intune Staff Group,Closed,9/16/2024,Lucas
+9/13/2024,Fri,Low,500,Connectivity ,Network,Closed,9/23/2024,Sofia
+9/13/2024,Fri,Low,600,E-Mail,Login,Closed,10/5/2024,Henry
+9/13/2024,Fri,Low,600,Login,Login,Closed,9/23/2024,Sofia
+9/13/2024,Fri,Low,700,Connectivity ,Network,Closed,9/17/2024,Sofia
 9/13/2024,Fri,High,700,Login,Login,Closed,9/17/2024,Henry
-9/13/2024,Fri,Low,700,Login,Access to Application - Application Software,Closed,9/23/2024,Lucas
-9/13/2024,Fri,Medium,800,E-Mail,Add / Remove / Change,Closed,9/17/2024,Sofia
-9/13/2024,Fri,Medium,800,E-Mail,Add / Remove / Change,Closed,9/16/2024,Sofia
-9/13/2024,Fri,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,10/6/2024,Lucas
-9/16/2024,Mon,Medium,800,E-Mail,Add / Remove / Change,Closed,9/30/2024,Lucas
+9/13/2024,Fri,Low,700,Login,Login,Closed,9/23/2024,Lucas
+9/13/2024,Fri,Medium,800,E-Mail,Login,Closed,9/17/2024,Sofia
+9/13/2024,Fri,Medium,800,E-Mail,Login,Closed,9/16/2024,Sofia
+9/13/2024,Fri,Low,800,Connectivity ,Network,Closed,10/6/2024,Lucas
+9/16/2024,Mon,Medium,800,E-Mail,Login,Closed,9/30/2024,Lucas
 9/16/2024,Mon,Low,800,Login,Login,Closed,10/14/2024,Sofia
-9/16/2024,Mon,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/21/2024,Sofia
-9/16/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/21/2024,Henry
+9/16/2024,Mon,Low,100,Connectivity ,Network,Closed,9/21/2024,Sofia
+9/16/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/21/2024,Henry
 9/16/2024,Mon,Medium,100,Login,Login,Closed,9/17/2024,Sofia
 9/16/2024,Mon,Low,100,Login,Login,Closed,10/6/2024,Lucas
-9/16/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/17/2024,Lucas
-9/16/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,9/24/2024,Liam
-9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
+9/16/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,9/17/2024,Lucas
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/24/2024,Liam
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/30/2024,Sofia
 9/16/2024,Mon,Medium,100,Login,Login,Closed,10/15/2024,Lucas
-9/16/2024,Mon,Medium,100,Printing and Scanning,Error Code,Closed,9/23/2024,Sofia
-9/16/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/16/2024,Mon,High,100,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Sofia
+9/16/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/23/2024,Sofia
+9/16/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/16/2024,Mon,High,100,Connectivity ,Network,Closed,9/22/2024,Sofia
 9/16/2024,Mon,Low,100,Login,Login,Closed,9/18/2024,Henry
-9/16/2024,Mon,Medium,100,Internet and Network Connectivity,WiFi connectivity Issues,Closed,9/22/2024,Henry
-9/16/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/2/2024,Sofia
-9/16/2024,Mon,Low,100,Desktop,Application Issues - Desktop,Closed,9/21/2024,Lucas
-9/16/2024,Mon,Low,100,Desktop,Application Issues - Desktop,Closed,9/21/2024,Lucas
-9/16/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/2/2024,Henry
+9/16/2024,Mon,Medium,100,Connectivity ,Network,Closed,9/22/2024,Henry
+9/16/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/2/2024,Sofia
+9/16/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,9/21/2024,Lucas
+9/16/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,9/21/2024,Lucas
+9/16/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/2/2024,Henry
 9/16/2024,Mon,Low,100,Login,Login,Closed,9/23/2024,Liam
-9/16/2024,Mon,Medium,100,Internet and Network Connectivity,Admin Network Down,Closed,10/8/2024,Sofia
-9/16/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,9/25/2024,Sofia
-9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/7/2024,Henry
+9/16/2024,Mon,Medium,100,Connectivity ,Network,Closed,10/8/2024,Sofia
+9/16/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/25/2024,Sofia
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,10/7/2024,Henry
 9/16/2024,Mon,Low,100,Login,Login,Closed,9/23/2024,Liam
-9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/21/2024,Lucas
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/21/2024,Lucas
 9/16/2024,Mon,Low,100,Login,Login,Closed,9/21/2024,Lucas
 9/16/2024,Mon,Low,100,Login,Login,Closed,10/27/2024,Sofia
-9/16/2024,Mon,Low,100,Desktop,Reimage Desktop,Closed,9/18/2024,Lucas
-9/16/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Liam
+9/16/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,9/18/2024,Lucas
+9/16/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/29/2024,Liam
 9/16/2024,Mon,Low,200,Login,Login,Closed,9/18/2024,Lucas
-9/16/2024,Mon,Medium,200,Internet and Network Connectivity,Network/Internet Outage,Closed,10/8/2024,Sofia
-9/16/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,9/23/2024,Sofia
-9/16/2024,Mon,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/16/2024,Mon,Medium,200,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/1/2024,Sofia
-9/16/2024,Mon,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/24/2024,Henry
-9/16/2024,Mon,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/23/2024,Henry
-9/16/2024,Mon,Medium,200,Internet and Network Connectivity,Connectivity Issues,Closed,12/8/2024,Henry
+9/16/2024,Mon,Medium,200,Connectivity ,Network,Closed,10/8/2024,Sofia
+9/16/2024,Mon,Medium,200,Desktop,Intune Staff Group,Closed,9/23/2024,Sofia
+9/16/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/16/2024,Mon,Medium,200,Connectivity ,Network,Closed,10/1/2024,Sofia
+9/16/2024,Mon,Low,200,Desktop,Intune Staff Group,Closed,9/24/2024,Henry
+9/16/2024,Mon,Low,200,Desktop,Intune Staff Group,Closed,9/23/2024,Henry
+9/16/2024,Mon,Medium,200,Connectivity ,Network,Closed,12/8/2024,Henry
 9/16/2024,Mon,Low,200,Login,Login,Closed,10/9/2024,Lucas
-9/16/2024,Mon,Medium,300,Printing and Scanning,Printing/Scanning Issue,Closed,10/1/2024,Henry
+9/16/2024,Mon,Medium,300,Security,CAT 3 Code,Closed,10/1/2024,Henry
 9/16/2024,Mon,Low,300,Login,Login,Closed,10/9/2024,Henry
 9/16/2024,Mon,Low,300,Login,Login,Closed,10/13/2024,Henry
-9/16/2024,Mon,Medium,300,Desktop,Reimage Desktop,Closed,10/8/2024,Henry
-9/16/2024,Mon,Low,400,Login,Login issues,Closed,9/29/2024,Henry
+9/16/2024,Mon,Medium,300,Desktop,Intune Staff Group,Closed,10/8/2024,Henry
+9/16/2024,Mon,Low,400,Login,Login,Closed,9/29/2024,Henry
 9/16/2024,Mon,Low,400,Login,Login,Closed,10/1/2024,Sofia
-9/16/2024,Mon,Medium,400,Printing and Scanning,Mainframe Printing-Scanning,Closed,10/9/2024,Henry
-9/16/2024,Mon,Low,500,Login,Access to Application - Application Software,Closed,9/21/2024,Lucas
-9/16/2024,Mon,Low,600,Internet and Network Connectivity,Connectivity Issues,Closed,10/13/2024,Henry
-9/16/2024,Mon,Medium,700,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Henry
-9/16/2024,Mon,Low,700,Desktop,Reimage Desktop,Closed,10/20/2024,Sofia
-9/16/2024,Mon,Low,700,Internet and Network Connectivity,Connectivity Issues,Closed,10/13/2024,Henry
-9/16/2024,Mon,Medium,800,Desktop,Reimage Desktop,Canceled,9/18/2024,Lucas
+9/16/2024,Mon,Medium,400,Security,CAT 3 Code,Closed,10/9/2024,Henry
+9/16/2024,Mon,Low,500,Login,Login,Closed,9/21/2024,Lucas
+9/16/2024,Mon,Low,600,Connectivity ,Network,Closed,10/13/2024,Henry
+9/16/2024,Mon,Medium,700,Connectivity ,Network,Closed,9/22/2024,Henry
+9/16/2024,Mon,Low,700,Desktop,Intune Staff Group,Closed,10/20/2024,Sofia
+9/16/2024,Mon,Low,700,Connectivity ,Internet,Closed,10/13/2024,Henry
+9/16/2024,Mon,Medium,800,Desktop,Intune Staff Group,Canceled,9/18/2024,Lucas
 9/16/2024,Mon,Low,800,Login,Login,Closed,9/21/2024,Henry
-9/16/2024,Mon,Medium,800,Desktop,Reimage Desktop,Closed,10/5/2024,Liam
-9/16/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
+9/16/2024,Mon,Medium,800,Desktop,Intune Staff Group,Closed,10/5/2024,Liam
+9/16/2024,Mon,Medium,800,Login,Login,Closed,9/22/2024,Lucas
 9/16/2024,Mon,Low,100,Login,Login,Closed,10/9/2024,Lucas
-9/16/2024,Mon,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Sofia
-9/16/2024,Mon,Low,100,,,Closed,9/22/2024,Lucas
-9/16/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/8/2024,Liam
-9/16/2024,Mon,Medium,100,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/24/2024,Henry
-9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/18/2024,Henry
-9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/24/2024,Henry
-9/16/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Liam
-9/16/2024,Mon,Medium,100,Desktop,Reconnect,Closed,9/18/2024,Sofia
-9/16/2024,Mon,Medium,100,Desktop,Reconnect,Closed,9/18/2024,Sofia
+9/16/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/5/2024,Sofia
+9/16/2024,Mon,Low,100,Connectivity ,Network,Closed,9/22/2024,Lucas
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,10/8/2024,Liam
+9/16/2024,Mon,Medium,100,Connectivity ,Internet,Closed,9/24/2024,Henry
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Henry
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/24/2024,Henry
+9/16/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Liam
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/16/2024,Mon,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
 9/16/2024,Mon,Low,100,Login,Login,Closed,9/29/2024,Liam
-9/16/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,10/8/2024,Liam
-9/16/2024,Mon,Low,100,Desktop,Reimage Desktop,Closed,10/8/2024,Liam
+9/16/2024,Mon,Low,100,Security,CAT 3 Code,Closed,10/8/2024,Liam
+9/16/2024,Mon,Low,100,Desktop,Intune Staff Group,Closed,10/8/2024,Liam
 9/17/2024,Tue,Low,100,Login,Login,Closed,9/23/2024,Sofia
-9/17/2024,Tue,Medium,100,Desktop,Hardware Issues,Closed,10/2/2024,Henry
-9/17/2024,Tue,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,10/8/2024,Henry
-9/17/2024,Tue,Medium,100,Desktop,Hardware Issues,Closed,9/25/2024,Henry
-9/17/2024,Tue,Low,100,Login,Login issues - Application Software,Closed,10/28/2024,Sofia
-9/17/2024,Tue,Medium,100,Desktop,Hardware Issues,Closed,9/18/2024,Sofia
+9/17/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,10/2/2024,Henry
+9/17/2024,Tue,Low,100,Security,CAT 3 Code,Closed,10/8/2024,Henry
+9/17/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/25/2024,Henry
+9/17/2024,Tue,Low,100,Login,Login,Closed,10/28/2024,Sofia
+9/17/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
 9/17/2024,Tue,Medium,100,Login,Login,Closed,9/29/2024,Liam
-9/17/2024,Tue,Low,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Sofia
-9/17/2024,Tue,Medium,100,Desktop,Reimage Desktop,Closed,10/5/2024,Henry
-9/17/2024,Tue,Medium,100,Desktop,Reimage Desktop,Closed,11/5/2024,Sofia
-9/17/2024,Tue,Low,200,Login,Login issues,Closed,11/3/2024,Sofia
-9/17/2024,Tue,Low,200,Printing and Scanning,Printing/Scanning Issue,Closed,9/30/2024,Sofia
-9/17/2024,Tue,Medium,200,Desktop,Hardware Issues,Closed,9/23/2024,Sofia
-9/17/2024,Tue,Medium,200,Login,Add / Edit / Remove Application,Closed,9/22/2024,Liam
-9/17/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/21/2024,Sofia
-9/17/2024,Tue,Low,200,Internet and Network Connectivity,Instructional Network Down,Closed,9/18/2024,Henry
-9/17/2024,Tue,Low,300,Desktop,Inactive-Update Issue,Closed,10/1/2024,Henry
+9/17/2024,Tue,Low,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/17/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,10/5/2024,Henry
+9/17/2024,Tue,Medium,100,Desktop,Intune Staff Group,Closed,11/5/2024,Sofia
+9/17/2024,Tue,Low,200,Login,Login,Closed,11/3/2024,Sofia
+9/17/2024,Tue,Low,200,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/17/2024,Tue,Medium,200,Desktop,Intune Staff Group,Closed,9/23/2024,Sofia
+9/17/2024,Tue,Medium,200,Login,Login,Closed,9/22/2024,Liam
+9/17/2024,Tue,Medium,200,Security,CAT 3 Code,Closed,9/21/2024,Sofia
+9/17/2024,Tue,Low,200,Connectivity ,Internet,Closed,9/18/2024,Henry
+9/17/2024,Tue,Low,300,Desktop,Intune Staff Group,Closed,10/1/2024,Henry
 9/17/2024,Tue,Low,300,Login,Login,Closed,10/13/2024,Sofia
-9/17/2024,Tue,Medium,300,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/17/2024,Tue,Medium,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
+9/17/2024,Tue,Medium,300,Login,Login,Closed,9/22/2024,Sofia
+9/17/2024,Tue,Medium,400,Login,Login,Closed,9/22/2024,Henry
 9/17/2024,Tue,Low,400,Login,Login,Closed,11/11/2024,Sofia
-9/17/2024,Tue,Low,500,Printing and Scanning,Printing/Scanning Issue,Closed,9/23/2024,Sofia
+9/17/2024,Tue,Low,500,Security,CAT 3 Code,Closed,9/23/2024,Sofia
 9/17/2024,Tue,Low,600,Login,Login,Closed,10/7/2024,Henry
-9/17/2024,Tue,Medium,700,Desktop,Hardware Issues,Closed,10/8/2024,Sofia
-9/17/2024,Tue,Medium,700,Login,Access to Application - Application Software,Closed,10/8/2024,Lucas
-9/17/2024,Tue,Medium,700,Printing and Scanning,Printing/Scanning Issue,Closed,10/13/2024,Henry
-9/17/2024,Tue,Low,700,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Sofia
-9/17/2024,Tue,Medium,800,Desktop,Reconnect,Closed,9/18/2024,Sofia
-9/17/2024,Tue,Low,800,Login,Access to Application - Application Software,Closed,9/21/2024,Sofia
-9/17/2024,Tue,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/17/2024,Tue,Low,100,Desktop,Application Issues - Desktop,Closed,9/22/2024,Lucas
+9/17/2024,Tue,Medium,700,Desktop,Intune Staff Group,Closed,10/8/2024,Sofia
+9/17/2024,Tue,Medium,700,Login,Login,Closed,10/8/2024,Lucas
+9/17/2024,Tue,Medium,700,Security,CAT 3 Code,Closed,10/13/2024,Henry
+9/17/2024,Tue,Low,700,Connectivity ,Internet,Closed,9/25/2024,Sofia
+9/17/2024,Tue,Medium,800,Desktop,Intune Staff Group,Closed,9/18/2024,Sofia
+9/17/2024,Tue,Low,800,Login,Login,Closed,9/21/2024,Sofia
+9/17/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/17/2024,Tue,Low,100,Desktop,Intune Staff Group,Closed,9/22/2024,Lucas
 9/17/2024,Tue,Medium,400,Login,Login,Closed,9/30/2024,Henry
 9/18/2024,Wed,Low,100,Login,Login,Closed,10/8/2024,Henry
-9/18/2024,Wed,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,9/24/2024,Isabella
+9/18/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/24/2024,Isabella
 9/18/2024,Wed,Medium,100,Login,Login,Closed,9/25/2024,Sofia
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/18/2024,Wed,Medium,100,Desktop,Reimage Desktop,Closed,9/24/2024,Sofia
-9/18/2024,Wed,Medium,100,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/24/2024,Sofia
+9/18/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/30/2024,Sofia
 9/18/2024,Wed,Low,100,Login,Login,Closed,9/21/2024,Henry
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/21/2024,Henry
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Liam
-9/18/2024,Wed,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/29/2024,Liam
-9/18/2024,Wed,Low,100,Internet and Network Connectivity,Network/Internet Outage,Closed,10/7/2024,Sofia
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/21/2024,Henry
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Liam
+9/18/2024,Wed,Medium,100,Connectivity ,Internet,Closed,9/29/2024,Liam
+9/18/2024,Wed,Low,100,Connectivity ,Internet,Closed,10/7/2024,Sofia
 9/18/2024,Wed,Medium,100,Login,Login,Closed,10/7/2024,Henry
-9/18/2024,Wed,Medium,100,Desktop,Reimage Desktop,Closed,10/8/2024,Henry
-9/18/2024,Wed,Medium,100,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/8/2024,Henry
+9/18/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,10/8/2024,Henry
+9/18/2024,Wed,Medium,100,Connectivity ,Internet,Closed,10/8/2024,Henry
 9/18/2024,Wed,Low,100,Login,Login,Closed,10/7/2024,Lucas
-9/18/2024,Wed,Low,100,Desktop,Application Issues - Desktop,Closed,9/29/2024,Lucas
-9/18/2024,Wed,Low,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/18/2024,Wed,Low,100,Login,Login issues - Application Software,Closed,10/13/2024,Henry
+9/18/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/29/2024,Lucas
+9/18/2024,Wed,Low,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Low,100,Login,Login,Closed,10/13/2024,Henry
 9/18/2024,Wed,Medium,100,Login,Login,Closed,10/2/2024,Isabella
-9/18/2024,Wed,Low,100,Internet and Network Connectivity,Wiring Repairs,Closed,9/30/2024,Sofia
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/18/2024,Wed,Low,100,Login,Login issues,Closed,9/24/2024,Henry
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/18/2024,Wed,Medium,100,Printing and Scanning,Error Code,Closed,9/29/2024,Sofia
+9/18/2024,Wed,Low,100,Connectivity ,Internet,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Low,100,Login,Login,Closed,9/24/2024,Henry
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
 9/18/2024,Wed,Low,100,Login,Login,Closed,9/21/2024,Lucas
-9/18/2024,Wed,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/22/2024,Lucas
-9/18/2024,Wed,Medium,100,Desktop,Reimage Desktop,Closed,10/8/2024,Sofia
+9/18/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/22/2024,Lucas
+9/18/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,10/8/2024,Sofia
 9/18/2024,Wed,Low,100,Login,Login,Closed,10/7/2024,Lucas
-9/18/2024,Wed,Low,100,Printing and Scanning,Printing Issues,Closed,9/22/2024,Sofia
+9/18/2024,Wed,Low,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
 9/18/2024,Wed,Medium,100,Login,Login,Closed,10/6/2024,Lucas
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,10/7/2024,Henry
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,10/7/2024,Henry
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
 9/18/2024,Wed,Low,100,Login,Login,Closed,10/7/2024,Lucas
 9/18/2024,Wed,Low,100,Login,Login,Closed,9/23/2024,Liam
-9/18/2024,Wed,Low,100,Desktop,Application Issues - Desktop,Closed,9/29/2024,Liam
-9/18/2024,Wed,Medium,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Sofia
-9/18/2024,Wed,Medium,100,Desktop,Reimage Desktop,Closed,9/29/2024,Sofia
-9/18/2024,Wed,Low,100,Desktop,Application Issues - Desktop,Closed,9/23/2024,Sofia
+9/18/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/29/2024,Liam
+9/18/2024,Wed,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/18/2024,Wed,Medium,100,Desktop,Intune Staff Group,Closed,9/29/2024,Sofia
+9/18/2024,Wed,Low,100,Desktop,Intune Staff Group,Closed,9/23/2024,Sofia
 9/18/2024,Wed,Medium,100,Login,Login,Closed,11/12/2024,Sofia
-9/18/2024,Wed,Low,200,Desktop,Application Issues - Desktop,Closed,9/25/2024,Sofia
-9/18/2024,Wed,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Sofia
-9/18/2024,Wed,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/24/2024,Lucas
+9/18/2024,Wed,Low,200,Desktop,Intune Staff Group,Closed,9/25/2024,Sofia
+9/18/2024,Wed,Low,200,Connectivity ,Internet,Closed,9/25/2024,Sofia
+9/18/2024,Wed,Medium,200,Desktop,Intune Staff Group,Closed,9/24/2024,Lucas
 9/18/2024,Wed,Medium,200,Login,Login,Closed,9/30/2024,Liam
-9/18/2024,Wed,Medium,200,Printing and Scanning,Printing Issues,Closed,10/6/2024,Sofia
-9/18/2024,Wed,Low,200,Printing and Scanning,Printer - Move-Add-Change Request,Closed,9/29/2024,Henry
-9/18/2024,Wed,Medium,200,Printing and Scanning,Printing Issues,Closed,9/21/2024,Henry
-9/18/2024,Wed,Medium,200,Desktop,Reconnect,Closed,9/21/2024,Sofia
-9/18/2024,Wed,Medium,200,Desktop,Reconnect,Closed,9/21/2024,Sofia
-9/18/2024,Wed,Medium,300,Desktop,Hardware Issues,Closed,10/14/2024,Henry
-9/18/2024,Wed,Low,300,Desktop,Add Desktop to Intune Staff Group,Closed,9/22/2024,Lucas
-9/18/2024,Wed,Low,400,Desktop,Application Issues - Desktop,Closed,9/25/2024,Henry
-9/18/2024,Wed,Medium,400,Desktop,Reimage Desktop,Closed,10/8/2024,Henry
-9/18/2024,Wed,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,9/22/2024,Sofia
+9/18/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/18/2024,Wed,Low,200,Security,CAT 3 Code,Closed,9/29/2024,Henry
+9/18/2024,Wed,Medium,200,Security,CAT 3 Code,Closed,9/21/2024,Henry
+9/18/2024,Wed,Medium,200,Desktop,Intune Staff Group,Closed,9/21/2024,Sofia
+9/18/2024,Wed,Medium,200,Desktop,Intune Staff Group,Closed,9/21/2024,Sofia
+9/18/2024,Wed,Medium,300,Desktop,Intune Staff Group,Closed,10/14/2024,Henry
+9/18/2024,Wed,Low,300,Desktop,Intune Staff Group,Closed,9/22/2024,Lucas
+9/18/2024,Wed,Low,400,Desktop,Intune Staff Group,Closed,9/25/2024,Henry
+9/18/2024,Wed,Medium,400,Desktop,Intune Staff Group,Closed,10/8/2024,Henry
+9/18/2024,Wed,Low,400,Connectivity ,Internet,Closed,9/22/2024,Sofia
 9/18/2024,Wed,Low,400,Login,Login,Closed,9/24/2024,Liam
-9/18/2024,Wed,Low,500,Login,Access to Application - Application Software,Closed,9/21/2024,Henry
-9/18/2024,Wed,Low,500,Login,Access to Application - Application Software,Closed,9/21/2024,Henry
-9/18/2024,Wed,Low,500,Login,Access to Application - Application Software,Closed,9/21/2024,Lucas
-9/18/2024,Wed,Medium,700,Desktop,Reimage Desktop,Closed,10/6/2024,Henry
-9/18/2024,Wed,Low,800,Desktop,Desktop Management Enrollment Issues,Closed,9/25/2024,Sofia
-9/19/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,100,Login,Application Assistance-Usage,Closed,9/22/2024,Liam
-9/19/2024,Thu,Medium,400,Login,Login Information,Closed,9/22/2024,Liam
-9/19/2024,Thu,Medium,700,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,100,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/23/2024,Sofia
-9/19/2024,Thu,High,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Sofia
-9/19/2024,Thu,Medium,100,E-Mail,Add / Remove / Change,Closed,10/15/2024,Henry
-9/19/2024,Thu,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,9/29/2024,Sofia
-9/19/2024,Thu,Medium,100,Printing and Scanning,Error Code,Closed,10/6/2024,Sofia
-9/19/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/6/2024,Sofia
-9/19/2024,Thu,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/29/2024,Liam
-9/19/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
+9/18/2024,Wed,Low,500,Login,Login,Closed,9/21/2024,Henry
+9/18/2024,Wed,Low,500,Login,Login,Closed,9/21/2024,Henry
+9/18/2024,Wed,Low,500,Login,Login,Closed,9/21/2024,Lucas
+9/18/2024,Wed,Medium,700,Desktop,Intune Staff Group,Closed,10/6/2024,Henry
+9/18/2024,Wed,Low,800,Desktop,Intune Staff Group,Closed,9/25/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,100,Login,Login,Closed,9/22/2024,Liam
+9/19/2024,Thu,Medium,400,Login,Login,Closed,9/22/2024,Liam
+9/19/2024,Thu,Medium,700,Login,Login,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,800,Login,Login,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,100,Connectivity ,Internet,Closed,9/23/2024,Sofia
+9/19/2024,Thu,High,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/19/2024,Thu,Medium,100,E-Mail,Login,Closed,10/15/2024,Henry
+9/19/2024,Thu,Low,100,Security,CAT 3 Code,Closed,9/29/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/19/2024,Thu,Low,100,Connectivity ,Internet,Closed,9/29/2024,Liam
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
 9/19/2024,Thu,Medium,100,Login,Login,Closed,9/29/2024,Lucas
 9/19/2024,Thu,Low,100,Login,Login,Closed,10/13/2024,Henry
-9/19/2024,Thu,Medium,100,Desktop,Hardware Issues,Closed,10/13/2024,Henry
+9/19/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/13/2024,Henry
 9/19/2024,Thu,Medium,100,Login,Login,Closed,10/14/2024,Henry
-9/19/2024,Thu,Low,100,E-Mail,Add / Remove / Change,Closed,9/25/2024,Sofia
+9/19/2024,Thu,Low,100,E-Mail,Login,Closed,9/25/2024,Sofia
 9/19/2024,Thu,Low,100,Login,Login,Closed,10/8/2024,Lucas
 9/19/2024,Thu,Low,100,Login,Login,Closed,10/13/2024,Lucas
-9/19/2024,Thu,High,100,Desktop,Inactive-Update Issue,Closed,9/24/2024,Lucas
-9/19/2024,Thu,Low,100,Desktop,Won't turn on,Closed,9/23/2024,Sofia
-9/19/2024,Thu,Medium,100,Desktop,Desktop Management Enrollment Issues,Closed,10/7/2024,Sofia
-9/19/2024,Thu,Medium,100,Desktop,Desktop Management Enrollment Issues,Closed,10/7/2024,Sofia
-9/19/2024,Thu,Medium,100,Desktop,Boot-Up Errors,Closed,10/14/2024,Henry
-9/19/2024,Thu,Medium,100,Desktop,Boot-Up Errors,Closed,10/14/2024,Henry
-9/19/2024,Thu,Low,100,E-Mail,Add / Remove / Change,Closed,10/2/2024,Henry
+9/19/2024,Thu,High,100,Desktop,Intune Staff Group,Closed,9/24/2024,Lucas
+9/19/2024,Thu,Low,100,Desktop,Intune Staff Group,Closed,9/23/2024,Sofia
+9/19/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/7/2024,Sofia
+9/19/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/7/2024,Sofia
+9/19/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/14/2024,Henry
+9/19/2024,Thu,Medium,100,Desktop,Intune Staff Group,Closed,10/14/2024,Henry
+9/19/2024,Thu,Low,100,E-Mail,Login,Closed,10/2/2024,Henry
 9/19/2024,Thu,Low,100,Login,Login,Closed,10/2/2024,Henry
-9/19/2024,Thu,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/19/2024,Thu,Low,100,Login,Access to Application - Application Software,Closed,10/13/2024,Sofia
-9/19/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/7/2024,Henry
-9/19/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/15/2024,Sofia
-9/19/2024,Thu,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,9/30/2024,Liam
-9/19/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/8/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/19/2024,Thu,Low,100,Login,Login,Closed,10/13/2024,Sofia
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/7/2024,Henry
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/15/2024,Sofia
+9/19/2024,Thu,Low,100,Desktop,Intune Staff Group,Closed,9/30/2024,Liam
+9/19/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/8/2024,Sofia
 9/19/2024,Thu,Low,100,Login,Login,Closed,9/29/2024,Sofia
-9/19/2024,Thu,Low,100,Login,Access to Application - Application Software,Closed,10/7/2024,Liam
-9/19/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/8/2024,Liam
+9/19/2024,Thu,Low,100,Login,Login,Closed,10/7/2024,Liam
+9/19/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/8/2024,Liam
 9/19/2024,Thu,Low,200,Login,Login,Closed,10/8/2024,Liam
-9/19/2024,Thu,Medium,200,Desktop,Hardware Issues,Closed,10/7/2024,Liam
-9/19/2024,Thu,Medium,200,Desktop,Hardware Issues,Closed,9/23/2024,Sofia
-9/19/2024,Thu,Low,200,Printing and Scanning,Printing Issues,Closed,10/1/2024,Henry
-9/19/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/1/2024,Henry
-9/19/2024,Thu,Medium,300,Printing and Scanning,Printing Issues,Closed,10/2/2024,Sofia
-9/19/2024,Thu,Low,400,Desktop,Desktop Management Enrollment Issues,Closed,10/15/2024,Sofia
-9/19/2024,Thu,Low,400,Login,Login issues,Closed,10/21/2024,Liam
-9/19/2024,Thu,Medium,400,Desktop,Hardware Issues,Closed,9/29/2024,Henry
-9/19/2024,Thu,Medium,400,Desktop,Reimage Desktop,Closed,10/9/2024,Lucas
-9/19/2024,Thu,Medium,400,Printing and Scanning,Printing Issues,Closed,10/7/2024,Henry
+9/19/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,10/7/2024,Liam
+9/19/2024,Thu,Medium,200,Desktop,Intune Staff Group,Closed,9/23/2024,Sofia
+9/19/2024,Thu,Low,200,Security,CAT 3 Code,Closed,10/1/2024,Henry
+9/19/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/1/2024,Henry
+9/19/2024,Thu,Medium,300,Security,CAT 3 Code,Closed,10/2/2024,Sofia
+9/19/2024,Thu,Low,400,Desktop,Reimage,Closed,10/15/2024,Sofia
+9/19/2024,Thu,Low,400,Login,Login,Closed,10/21/2024,Liam
+9/19/2024,Thu,Medium,400,Desktop,Reimage,Closed,9/29/2024,Henry
+9/19/2024,Thu,Medium,400,Desktop,Reimage,Closed,10/9/2024,Lucas
+9/19/2024,Thu,Medium,400,Security,CAT 3 Code,Closed,10/7/2024,Henry
 9/19/2024,Thu,Low,500,Login,Login,Closed,10/8/2024,Henry
-9/19/2024,Thu,Medium,600,Printing and Scanning,Printing Issues,Closed,10/16/2024,Sofia
-9/19/2024,Thu,Low,700,Desktop,Inactive-Update Issue,Closed,10/8/2024,Lucas
-9/19/2024,Thu,Medium,700,Security Operations,Malicious Code (CAT 3),Closed,10/21/2024,Henry
-9/19/2024,Thu,Medium,800,Printing and Scanning,Printing Issues,Closed,9/24/2024,Sofia
-9/19/2024,Thu,Medium,800,Desktop,Reconnect,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Low,800,Login,Access to Application - Application Software,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,800,Desktop,Reconnect,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Low,800,Login,Access to Network,Closed,9/22/2024,Sofia
-9/19/2024,Thu,Medium,800,Desktop,Reimage Desktop,Closed,9/24/2024,Henry
-9/20/2024,Fri,Low,100,Login,Login issues - Application Software,Closed,10/14/2024,Henry
+9/19/2024,Thu,Medium,600,Security,CAT 3 Code,Closed,10/16/2024,Sofia
+9/19/2024,Thu,Low,700,Desktop,Reimage,Closed,10/8/2024,Lucas
+9/19/2024,Thu,Medium,700,Security,CAT 3 Code,Closed,10/21/2024,Henry
+9/19/2024,Thu,Medium,800,Security,CAT 3 Code,Closed,9/24/2024,Sofia
+9/19/2024,Thu,Medium,800,Desktop,Reimage,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Low,800,Login,Login,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,800,Desktop,Reimage,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Low,800,Login,Login,Closed,9/22/2024,Sofia
+9/19/2024,Thu,Medium,800,Desktop,Reimage,Closed,9/24/2024,Henry
+9/20/2024,Fri,Low,100,Login,Login,Closed,10/14/2024,Henry
 9/20/2024,Fri,Low,100,Login,Login,Closed,10/13/2024,Lucas
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/7/2024,Sofia
-9/20/2024,Fri,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/1/2024,Henry
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/7/2024,Sofia
+9/20/2024,Fri,Low,100,Connectivity ,Internet,Closed,10/1/2024,Henry
 9/20/2024,Fri,Low,100,Login,Login,Closed,10/1/2024,Henry
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/1/2024,Sofia
-9/20/2024,Fri,Medium,100,Internet and Network Connectivity,Access to Wireless Network - SSID,Closed,10/7/2024,Henry
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/29/2024,Liam
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/16/2024,Henry
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/1/2024,Sofia
+9/20/2024,Fri,Medium,100,Connectivity ,Internet,Closed,10/7/2024,Henry
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/29/2024,Liam
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/16/2024,Henry
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Henry
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Henry
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/25/2024,Henry
@@ -758,296 +758,296 @@
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/24/2024,Lucas
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/23/2024,Lucas
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/23/2024,Lucas
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/13/2024,Sofia
-9/20/2024,Fri,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,10/13/2024,Sofia
-9/20/2024,Fri,Medium,100,Internet and Network Connectivity,Network/Internet Outage,Closed,10/27/2024,Sofia
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/13/2024,Sofia
+9/20/2024,Fri,Medium,100,Connectivity ,Internet,Closed,10/13/2024,Sofia
+9/20/2024,Fri,Medium,100,Connectivity ,Internet,Closed,10/27/2024,Sofia
 9/20/2024,Fri,Low,100,Login,Login,Closed,9/23/2024,Lucas
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,9/23/2024,Sofia
-9/20/2024,Fri,Low,100,E-Mail,Add / Remove / Change,Closed,10/5/2024,Liam
-9/20/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/19/2024,Henry
-9/20/2024,Fri,Medium,200,Login,Access to Application - Application Software,Closed,10/7/2024,Liam
-9/20/2024,Fri,Low,200,Login,Login issues,Closed,10/7/2024,Liam
-9/20/2024,Fri,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/20/2024,Fri,Medium,200,Printing and Scanning,Printing Issues,Closed,10/19/2024,Henry
-9/20/2024,Fri,Medium,200,Desktop,Reconnect,Closed,9/23/2024,Sofia
-9/20/2024,Fri,Medium,200,Desktop,Reconnect,Closed,9/29/2024,Sofia
-9/20/2024,Fri,Medium,200,Desktop,Reconnect,Closed,9/30/2024,Sofia
-9/20/2024,Fri,Medium,200,Internet and Network Connectivity,Connectivity Issues,Closed,10/16/2024,Lucas
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,9/23/2024,Sofia
+9/20/2024,Fri,Low,100,E-Mail,Login,Closed,10/5/2024,Liam
+9/20/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/19/2024,Henry
+9/20/2024,Fri,Medium,200,Login,Login,Closed,10/7/2024,Liam
+9/20/2024,Fri,Low,200,Login,Login,Closed,10/7/2024,Liam
+9/20/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/20/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,10/19/2024,Henry
+9/20/2024,Fri,Medium,200,Desktop,Reimage,Closed,9/23/2024,Sofia
+9/20/2024,Fri,Medium,200,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/20/2024,Fri,Medium,200,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/20/2024,Fri,Medium,200,Connectivity ,Internet,Closed,10/16/2024,Lucas
 9/20/2024,Fri,Medium,200,Login,Login,Closed,9/25/2024,Lucas
 9/20/2024,Fri,Low,200,Login,Login,Closed,10/5/2024,Liam
 9/20/2024,Fri,Medium,200,Login,Login,Closed,10/14/2024,Henry
-9/20/2024,Fri,Medium,200,Desktop,Hardware Issues,Closed,9/29/2024,Henry
-9/20/2024,Fri,Medium,300,Desktop,Reimage Desktop,Closed,10/9/2024,Sofia
-9/20/2024,Fri,Medium,300,Printing and Scanning,Printing Issues,Closed,10/8/2024,Sofia
-9/20/2024,Fri,Medium,300,Desktop,Hardware Issues,Closed,10/15/2024,Sofia
-9/20/2024,Fri,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,10/14/2024,Henry
+9/20/2024,Fri,Medium,200,Desktop,Reimage,Closed,9/29/2024,Henry
+9/20/2024,Fri,Medium,300,Desktop,Reimage,Closed,10/9/2024,Sofia
+9/20/2024,Fri,Medium,300,Security,CAT 3 Code,Closed,10/8/2024,Sofia
+9/20/2024,Fri,Medium,300,Desktop,Reimage,Closed,10/15/2024,Sofia
+9/20/2024,Fri,Low,400,Connectivity ,Internet,Closed,10/14/2024,Henry
 9/20/2024,Fri,Low,400,Login,Login,Closed,10/15/2024,Sofia
-9/20/2024,Fri,Medium,500,Internet and Network Connectivity,Slow Internet Connectivity,Closed,10/16/2024,Lucas
-9/20/2024,Fri,Low,600,Desktop,Add Desktop to Intune Staff Group,Closed,9/23/2024,Lucas
-9/20/2024,Fri,Low,700,Desktop,Desktop Management Enrollment Issues,Closed,9/24/2024,Lucas
-9/20/2024,Fri,Medium,700,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/20/2024,Fri,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,9/24/2024,Sofia
-9/20/2024,Fri,Medium,800,Desktop,Hardware Issues,Closed,10/7/2024,Sofia
-9/20/2024,Fri,Low,800,Login,Login issues,Closed,10/22/2024,Sofia
-9/20/2024,Fri,Medium,800,Printing and Scanning,Printing Issues,Closed,9/24/2024,Henry
-9/20/2024,Fri,Medium,800,Desktop,Reimage Desktop,Closed,10/1/2024,Lucas
-9/20/2024,Fri,Medium,800,Login,Upgrade,Closed,9/22/2024,Sofia
+9/20/2024,Fri,Medium,500,Connectivity ,Internet,Closed,10/16/2024,Lucas
+9/20/2024,Fri,Low,600,Desktop,Reimage,Closed,9/23/2024,Lucas
+9/20/2024,Fri,Low,700,Desktop,Reimage,Closed,9/24/2024,Lucas
+9/20/2024,Fri,Medium,700,Login,Login,Closed,9/22/2024,Lucas
+9/20/2024,Fri,Low,800,Connectivity ,Internet,Closed,9/24/2024,Sofia
+9/20/2024,Fri,Medium,800,Desktop,Reimage,Closed,10/7/2024,Sofia
+9/20/2024,Fri,Low,800,Login,Login,Closed,10/22/2024,Sofia
+9/20/2024,Fri,Medium,800,Security,CAT 3 Code,Closed,9/24/2024,Henry
+9/20/2024,Fri,Medium,800,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/20/2024,Fri,Medium,800,Login,Login,Closed,9/22/2024,Sofia
 9/20/2024,Fri,Medium,800,Login,Login,Closed,10/8/2024,Henry
 9/20/2024,Fri,Low,800,Login,Login,Closed,10/8/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning, ,Closed,9/22/2024,Henry
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Henry
 9/23/2024,Mon,Medium,100,Login,Login,Closed,10/20/2024,Henry
-9/23/2024,Mon,Low,100,Login,Login issues,Closed,10/20/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/9/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/8/2024,Sofia
-9/23/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,9/29/2024,Liam
-9/23/2024,Mon,Low,100,Desktop,Application Issues - Desktop,Closed,10/15/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/26/2024,Henry
-9/23/2024,Mon,Low,100,Printing and Scanning,Printing Issues,Closed,10/5/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning,Printing/Scanning Issue,Closed,10/5/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/8/2024,Liam
-9/23/2024,Mon,Low,100,Login,New user access,Closed,9/22/2024,Lucas
-9/23/2024,Mon,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,9/25/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/2/2024,Sofia
+9/23/2024,Mon,Low,100,Login,Login,Closed,10/20/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/9/2024,Sofia
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/8/2024,Sofia
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,9/29/2024,Liam
+9/23/2024,Mon,Low,100,Desktop,Reimage,Closed,10/15/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/26/2024,Henry
+9/23/2024,Mon,Low,100,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/8/2024,Liam
+9/23/2024,Mon,Low,100,Login,Login,Closed,9/22/2024,Lucas
+9/23/2024,Mon,Low,100,Connectivity ,Internet,Closed,9/25/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/2/2024,Sofia
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/5/2024,Liam
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/7/2024,Liam
-9/23/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/25/2024,Henry
-9/23/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,10/2/2024,Sofia
-9/23/2024,Mon,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/25/2024,Henry
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,10/2/2024,Sofia
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Liam
 9/23/2024,Mon,Low,200,Login,Login,Closed,9/30/2024,Sofia
-9/23/2024,Mon,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,10/6/2024,Sofia
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/25/2024,Lucas
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,10/6/2024,Sofia
 9/23/2024,Mon,Low,200,Login,Login,Closed,10/6/2024,Sofia
-9/23/2024,Mon,Medium,200,Printing and Scanning,Printing Issues,Closed,10/9/2024,Sofia
-9/23/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
-9/23/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,9/24/2024,Lucas
-9/23/2024,Mon,Low,200,E-Mail,Add / Remove / Change,Closed,10/13/2024,Sofia
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/9/2024,Sofia
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/24/2024,Lucas
+9/23/2024,Mon,Low,200,E-Mail,Login,Closed,10/13/2024,Sofia
 9/23/2024,Mon,Low,200,Login,Login,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,200,Printing and Scanning,Printing Issues,Closed,10/14/2024,Sofia
-9/23/2024,Mon,Low,300,Login,Login issues,Closed,9/30/2024,Sofia
-9/23/2024,Mon,Low,300,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Henry
-9/23/2024,Mon,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,400,Login,Login issues,Closed,9/29/2024,Lucas
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/14/2024,Sofia
+9/23/2024,Mon,Low,300,Login,Login,Closed,9/30/2024,Sofia
+9/23/2024,Mon,Low,300,Connectivity ,Internet,Closed,10/5/2024,Henry
+9/23/2024,Mon,Low,400,Desktop,Reimage,Closed,9/25/2024,Lucas
+9/23/2024,Mon,Medium,400,Login,Login,Closed,9/29/2024,Lucas
 9/23/2024,Mon,Low,400,Login,Login,Closed,9/30/2024,Henry
-9/23/2024,Mon,Low,400,Printing and Scanning,Printing Issues,Closed,9/30/2024,Henry
-9/23/2024,Mon,Low,400,Login,Login issues,Closed,10/13/2024,Henry
+9/23/2024,Mon,Low,400,Security,CAT 3 Code,Closed,9/30/2024,Henry
+9/23/2024,Mon,Low,400,Login,Login,Closed,10/13/2024,Henry
 9/23/2024,Mon,Low,400,Login,Login,Closed,10/5/2024,Henry
-9/23/2024,Mon,Low,400,E-Mail,Add / Remove / Change,Closed,10/5/2024,Henry
-9/23/2024,Mon,Medium,400,Printing and Scanning,Printing Issues,Closed,10/5/2024,Henry
-9/23/2024,Mon,Medium,400,Printing and Scanning,Printing Issues,Closed,10/19/2024,Sofia
-9/23/2024,Mon,Low,500,E-Mail,Add / Remove / Change,Closed,10/23/2024,Henry
-9/23/2024,Mon,Medium,600,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/8/2024,Sofia
+9/23/2024,Mon,Low,400,E-Mail,Login,Closed,10/5/2024,Henry
+9/23/2024,Mon,Medium,400,Security,CAT 3 Code,Closed,10/5/2024,Henry
+9/23/2024,Mon,Medium,400,Security,CAT 3 Code,Closed,10/19/2024,Sofia
+9/23/2024,Mon,Low,500,E-Mail,Login,Closed,10/23/2024,Henry
+9/23/2024,Mon,Medium,600,Connectivity ,Internet,Closed,10/8/2024,Sofia
 9/23/2024,Mon,Low,700,Login,Login,Closed,9/25/2024,Henry
 9/23/2024,Mon,Low,700,Login,Login,Closed,9/29/2024,Lucas
-9/23/2024,Mon,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,10/8/2024,Sofia
+9/23/2024,Mon,Low,800,Connectivity ,Internet,Closed,10/8/2024,Sofia
 9/23/2024,Mon,Low,800,Login,Login,Closed,10/1/2024,Lucas
-9/23/2024,Mon,Medium,800,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/23/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/23/2024,Mon,Low,100,,,Closed,9/22/2024,Sofia
-9/23/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/16/2024,Sofia
+9/23/2024,Mon,Medium,800,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/23/2024,Mon,Medium,800,Login,Login,Closed,9/22/2024,Lucas
+9/23/2024,Mon,Low,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Sofia
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/7/2024,Liam
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/13/2024,Lucas
-9/23/2024,Mon,Low,100,Login,Access to Application - Application Software,Closed,10/6/2024,Henry
-9/23/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/23/2024,Mon,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Liam
-9/23/2024,Mon,Medium,100,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/5/2024,Liam
-9/23/2024,Mon,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Liam
-9/23/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Liam
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Reconnect,Closed,9/25/2024,Sofia
-9/23/2024,Mon,Medium,100,Desktop,Reconnect,Closed,9/25/2024,Sofia
-9/23/2024,Mon,Low,100,Login,Login issues,Closed,10/6/2024,Sofia
-9/23/2024,Mon,Medium,100,Internet and Network Connectivity,WiFi connectivity Issues,Closed,10/13/2024,Sofia
-9/23/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/23/2024,Mon,Low,100,Desktop,Inactive-Update Issue,Closed,9/25/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
+9/23/2024,Mon,Low,100,Login,Login,Closed,10/6/2024,Henry
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/5/2024,Liam
+9/23/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/5/2024,Liam
+9/23/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/5/2024,Liam
+9/23/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Liam
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,9/25/2024,Sofia
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,9/25/2024,Sofia
+9/23/2024,Mon,Low,100,Login,Login,Closed,10/6/2024,Sofia
+9/23/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/13/2024,Sofia
+9/23/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Low,100,Desktop,Reimage,Closed,9/25/2024,Sofia
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
 9/23/2024,Mon,Medium,100,Login,Login,Closed,9/29/2024,Liam
-9/23/2024,Mon,Medium,100,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Liam
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Henry
-9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Henry
-9/23/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,10/16/2024,Sofia
-9/23/2024,Mon,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,10/13/2024,Sofia
-9/23/2024,Mon,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,200,Printing and Scanning,Printing/Scanning Issue,Closed,10/9/2024,Liam
-9/23/2024,Mon,Low,200,Internet and Network Connectivity,Connectivity Issues,Closed,10/9/2024,Liam
-9/23/2024,Mon,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/25/2024,Lucas
-9/23/2024,Mon,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
-9/23/2024,Mon,Medium,200,E-Mail,Add / Remove / Change,Closed,10/20/2024,Henry
-9/23/2024,Mon,Medium,200,Desktop,Hardware Issues,Closed,10/6/2024,Henry
-9/23/2024,Mon,Medium,200,Printing and Scanning,Error Code,Closed,10/5/2024,Sofia
-9/23/2024,Mon,Medium,200,Printing and Scanning,Printing Issues,Closed,10/13/2024,Sofia
+9/23/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Henry
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Henry
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,10/16/2024,Sofia
+9/23/2024,Mon,Low,200,Connectivity ,Internet,Closed,10/13/2024,Sofia
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/25/2024,Lucas
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/25/2024,Lucas
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/9/2024,Liam
+9/23/2024,Mon,Low,200,Connectivity ,Internet,Closed,10/9/2024,Liam
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,9/25/2024,Lucas
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Medium,200,E-Mail,Login,Closed,10/20/2024,Henry
+9/23/2024,Mon,Medium,200,Desktop,Reimage,Closed,10/6/2024,Henry
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/23/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/13/2024,Sofia
 9/23/2024,Mon,Low,200,Login,Login,Closed,9/29/2024,Lucas
 9/23/2024,Mon,Medium,200,Login,Login,Closed,9/29/2024,Lucas
-9/23/2024,Mon,Medium,400,Printing and Scanning,Printing Issues,Closed,10/5/2024,Sofia
-9/23/2024,Mon,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,9/29/2024,Lucas
-9/23/2024,Mon,Low,400,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/23/2024,Mon,Medium,500,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Medium,400,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/23/2024,Mon,Low,400,Desktop,Reimage,Closed,9/29/2024,Lucas
+9/23/2024,Mon,Low,400,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/23/2024,Mon,Medium,500,Login,Login,Closed,9/22/2024,Sofia
 9/23/2024,Mon,Low,600,Login,Login,Closed,10/23/2024,Sofia
-9/23/2024,Mon,Medium,800,Desktop,Reimage Desktop,Closed,9/25/2024,Sofia
-9/23/2024,Mon,Medium,800,Printing and Scanning,Error Code,Closed,10/21/2024,Henry
-9/23/2024,Mon,Medium,800,Desktop,Reimage Desktop,Closed,10/19/2024,Sofia
-9/23/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/5/2024,Henry
-9/24/2024,Tue,Medium,100,Printing and Scanning,Printing Issues,Closed,10/6/2024,Henry
+9/23/2024,Mon,Medium,800,Desktop,Reimage,Closed,9/25/2024,Sofia
+9/23/2024,Mon,Medium,800,Security,CAT 3 Code,Closed,10/21/2024,Henry
+9/23/2024,Mon,Medium,800,Desktop,Reimage,Closed,10/19/2024,Sofia
+9/23/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/5/2024,Henry
+9/24/2024,Tue,Medium,100,Security,CAT 3 Code,Closed,10/6/2024,Henry
 9/25/2024,Wed,Medium,100,Login,Login,Closed,10/5/2024,Henry
-9/25/2024,Wed,Medium,100,Desktop,Broken keyboard or Mouse,Closed,10/5/2024,Henry
-9/26/2024,Thu,Medium,100,Internet and Network Connectivity,Slow Internet Connectivity,Closed,10/7/2024,Sofia
-9/26/2024,Thu,Medium,100,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Sofia
-9/26/2024,Thu,Medium,100,Printing and Scanning,Mainframe Printing-Scanning,Closed,10/28/2024,Henry
-9/26/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Low,100,E-Mail,Add / Remove / Change,Closed,10/15/2024,Henry
-9/26/2024,Thu,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/13/2024,Sofia
-9/26/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/6/2024,Sofia
-9/26/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,10/6/2024,Sofia
-9/26/2024,Thu,Low,100,Login,Login issues - Application Software,Closed,10/16/2024,Lucas
-9/26/2024,Thu,Low,100,Desktop,Reconnect,Closed,11/3/2024,Sofia
-9/26/2024,Thu,Medium,100,Printing and Scanning,Printing Issues,Closed,9/30/2024,Sofia
-9/26/2024,Thu,Medium,100,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
+9/25/2024,Wed,Medium,100,Desktop,Reimage,Closed,10/5/2024,Henry
+9/26/2024,Thu,Medium,100,Connectivity ,Internet,Closed,10/7/2024,Sofia
+9/26/2024,Thu,Medium,100,Connectivity ,Internet,Closed,9/22/2024,Sofia
+9/26/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/28/2024,Henry
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Low,100,E-Mail,Login,Closed,10/15/2024,Henry
+9/26/2024,Thu,Medium,100,Connectivity ,Internet,Closed,10/13/2024,Sofia
+9/26/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/26/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,10/6/2024,Sofia
+9/26/2024,Thu,Low,100,Login,Login,Closed,10/16/2024,Lucas
+9/26/2024,Thu,Low,100,Desktop,Reimage,Closed,11/3/2024,Sofia
+9/26/2024,Thu,Medium,100,Security,CAT 3 Code,Closed,9/30/2024,Sofia
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,9/30/2024,Sofia
 9/26/2024,Thu,Low,100,Login,Login,Closed,10/7/2024,Sofia
-9/26/2024,Thu,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Sofia
-9/26/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/30/2024,Sofia
-9/26/2024,Thu,High,100,Desktop,Reimage Desktop,Closed,10/2/2024,Henry
-9/26/2024,Thu,Medium,100,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Henry
-9/26/2024,Thu,Low,100,E-Mail,Add / Remove / Change,Closed,10/9/2024,Sofia
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,10/16/2024,Sofia
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/26/2024,Thu,High,100,Desktop,Reimage,Closed,10/2/2024,Henry
+9/26/2024,Thu,Medium,100,Connectivity ,Internet,Closed,9/22/2024,Henry
+9/26/2024,Thu,Low,100,E-Mail,Login,Closed,10/9/2024,Sofia
 9/26/2024,Thu,Medium,100,Login,Login,Closed,9/30/2024,Lucas
 9/26/2024,Thu,Low,100,Login,Login,Canceled,10/9/2024,Lucas
-9/26/2024,Thu,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/7/2024,Liam
-9/26/2024,Thu,Low,100,Login,Login issues,Closed,10/13/2024,Lucas
-9/26/2024,Thu,Medium,100,Desktop,Reconnect,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Low,100,Desktop,Hardware Issues,Closed,10/14/2024,Isabella
-9/26/2024,Thu,Medium,100,Desktop,Reimage Desktop,Closed,10/13/2024,Liam
-9/26/2024,Thu,Medium,100,Desktop,Hardware Issues,Closed,10/16/2024,Henry
-9/26/2024,Thu,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,10/16/2024,Sofia
-9/26/2024,Thu,Medium,200,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/26/2024,Thu,Medium,200,Desktop,Add Desktop to Intune Staff Group,Closed,9/30/2024,Lucas
-9/26/2024,Thu,Medium,200,Desktop,Desktop Management Enrollment Issues,Closed,9/30/2024,Lucas
-9/26/2024,Thu,Medium,200,Desktop,Hardware Issues,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/15/2024,Sofia
+9/26/2024,Thu,Medium,100,Connectivity ,Internet,Closed,10/7/2024,Liam
+9/26/2024,Thu,Low,100,Login,Login,Closed,10/13/2024,Lucas
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Low,100,Desktop,Reimage,Closed,10/14/2024,Isabella
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,10/13/2024,Liam
+9/26/2024,Thu,Medium,100,Desktop,Reimage,Closed,10/16/2024,Henry
+9/26/2024,Thu,Low,200,Desktop,Reimage,Closed,10/16/2024,Sofia
+9/26/2024,Thu,Medium,200,Login,Login,Closed,9/22/2024,Lucas
+9/26/2024,Thu,Medium,200,Desktop,Reimage,Closed,9/30/2024,Lucas
+9/26/2024,Thu,Medium,200,Desktop,Reimage,Closed,9/30/2024,Lucas
+9/26/2024,Thu,Medium,200,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/15/2024,Sofia
 9/26/2024,Thu,Low,200,Login,Login,Closed,10/13/2024,Henry
-9/26/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/14/2024,Henry
-9/26/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/5/2024,Sofia
-9/26/2024,Thu,Medium,200,Printing and Scanning,Printing Issues,Closed,10/21/2024,Henry
-9/26/2024,Thu,Low,200,Desktop,Won't turn on,Closed,10/8/2024,Sofia
-9/26/2024,Thu,Low,200,Login,Access to Application - Application Software,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Medium,200,Desktop,Reconnect,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Medium,200,Desktop,Reconnect,Closed,9/29/2024,Sofia
-9/26/2024,Thu,Medium,300,Desktop,Hardware Issues,Closed,10/15/2024,Lucas
-9/26/2024,Thu,Low,400,Login,Login issues,Closed,10/8/2024,Henry
-9/26/2024,Thu,Medium,400,Desktop,Reimage Desktop,Closed,10/6/2024,Henry
+9/26/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/14/2024,Henry
+9/26/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/5/2024,Sofia
+9/26/2024,Thu,Medium,200,Security,CAT 3 Code,Closed,10/21/2024,Henry
+9/26/2024,Thu,Low,200,Desktop,Reimage,Closed,10/8/2024,Sofia
+9/26/2024,Thu,Low,200,Login,Login,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Medium,200,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Medium,200,Desktop,Reimage,Closed,9/29/2024,Sofia
+9/26/2024,Thu,Medium,300,Desktop,Reimage,Closed,10/15/2024,Lucas
+9/26/2024,Thu,Low,400,Login,Login,Closed,10/8/2024,Henry
+9/26/2024,Thu,Medium,400,Desktop,Reimage,Closed,10/6/2024,Henry
 9/26/2024,Thu,Low,500,Login,Login,Closed,9/30/2024,Lucas
 9/26/2024,Thu,Low,500,Login,Login,Closed,10/7/2024,Liam
-9/26/2024,Thu,Low,500,Login,Login issues,Closed,10/27/2024,Henry
+9/26/2024,Thu,Low,500,Login,Login,Closed,10/27/2024,Henry
 9/26/2024,Thu,Medium,500,Login,Login,Closed,9/30/2024,Lucas
-9/26/2024,Thu,Low,600,Desktop,Add Desktop to Intune Staff Group,Closed,9/30/2024,Lucas
+9/26/2024,Thu,Low,600,Desktop,Reimage,Closed,9/30/2024,Lucas
 9/26/2024,Thu,Medium,600,Login,Login,Closed,10/8/2024,Sofia
-9/26/2024,Thu,Low,700,E-Mail,Add / Remove / Change,Closed,10/15/2024,Lucas
+9/26/2024,Thu,Low,700,E-Mail,Login,Closed,10/15/2024,Lucas
 9/26/2024,Thu,Low,700,Login,Login,Closed,11/3/2024,Sofia
-9/26/2024,Thu,Medium,800,E-Mail,Add / Remove / Change,Closed,10/13/2024,Henry
-9/26/2024,Thu,Medium,800,Printing and Scanning,Printing Issues,Closed,10/13/2024,Lucas
+9/26/2024,Thu,Medium,800,E-Mail,Login,Closed,10/13/2024,Henry
+9/26/2024,Thu,Medium,800,Security,CAT 3 Code,Closed,10/13/2024,Lucas
 9/26/2024,Thu,Low,800,Login,Login,Closed,10/1/2024,Henry
-9/26/2024,Thu,Medium,800,Desktop,Desktop Management Enrollment Issues,Closed,9/30/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/30/2024,Lucas
-9/27/2024,Fri,Medium,100,Printing and Scanning,Printing Issues,Closed,10/5/2024,Sofia
+9/26/2024,Thu,Medium,800,Desktop,Reimage,Closed,9/30/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,9/30/2024,Lucas
+9/27/2024,Fri,Medium,100,Security,CAT 3 Code,Closed,10/5/2024,Sofia
 9/27/2024,Fri,Low,100,Login,Login,Closed,11/5/2024,Sofia
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/27/2024,Fri,Low,100,E-Mail,Add / Remove / Change,Closed,10/28/2024,Henry
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/27/2024,Fri,Low,100,E-Mail,Login,Closed,10/28/2024,Henry
 9/27/2024,Fri,Medium,100,Login,Login,Closed,10/2/2024,Lucas
 9/27/2024,Fri,Medium,100,Login,Login,Closed,10/15/2024,Henry
-9/27/2024,Fri,Low,100,Login,Login issues,Closed,10/1/2024,Liam
+9/27/2024,Fri,Low,100,Login,Login,Closed,10/1/2024,Liam
 9/27/2024,Fri,Medium,100,Login,Login,Closed,10/20/2024,Sofia
 9/27/2024,Fri,Medium,100,Login,Login,Closed,10/20/2024,Sofia
-9/27/2024,Fri,Medium,100,Desktop,Boot-Up Errors,Closed,10/9/2024,Sofia
-9/27/2024,Fri,Medium,100,Desktop,Reconnect,Closed,9/30/2024,Sofia
-9/27/2024,Fri,Medium,100,Desktop,Reconnect,Closed,9/30/2024,Sofia
-9/27/2024,Fri,Low,100,Desktop,Application Issues - Desktop,Closed,10/5/2024,Sofia
+9/27/2024,Fri,Medium,100,Desktop,Reimage,Closed,10/9/2024,Sofia
+9/27/2024,Fri,Medium,100,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/27/2024,Fri,Medium,100,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/5/2024,Sofia
 9/27/2024,Fri,Low,100,Login,Login,Closed,10/13/2024,Henry
-9/27/2024,Fri,Medium,100,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
-9/27/2024,Fri,Low,100,E-Mail,Add / Remove / Change,Closed,10/7/2024,Henry
+9/27/2024,Fri,Medium,100,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/27/2024,Fri,Low,100,E-Mail,Login,Closed,10/7/2024,Henry
 9/27/2024,Fri,Low,100,Login,Login,Closed,10/16/2024,Henry
-9/27/2024,Fri,Low,100,,,Closed,9/22/2024,Liam
-9/27/2024,Fri,Medium,100,Desktop,Boot-Up Errors,Closed,10/7/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Application Issues - Desktop,Closed,10/7/2024,Liam
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/27/2024,Fri,Low,100,Desktop,Desktop Management Enrollment Issues,Closed,10/13/2024,Sofia
-9/27/2024,Fri,Medium,100,Login,Access to Application - Application Software,Closed,10/22/2024,Lucas
-9/27/2024,Fri,Medium,200,Desktop,Inactive-Update Issue,Closed,10/5/2024,Sofia
+9/27/2024,Fri,Low,100,Security,CAT 3 Code,Closed,9/22/2024,Liam
+9/27/2024,Fri,Medium,100,Desktop,Reimage,Closed,10/7/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/7/2024,Liam
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/27/2024,Fri,Low,100,Desktop,Reimage,Closed,10/13/2024,Sofia
+9/27/2024,Fri,Medium,100,Login,Login,Closed,10/22/2024,Lucas
+9/27/2024,Fri,Medium,200,Desktop,Reimage,Closed,10/5/2024,Sofia
 9/27/2024,Fri,Low,200,Login,Login,Closed,10/2/2024,Sofia
-9/27/2024,Fri,Medium,200,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Sofia
+9/27/2024,Fri,Medium,200,Security,CAT 3 Code,Closed,9/22/2024,Sofia
 9/27/2024,Fri,Low,200,Login,Login,Closed,10/7/2024,Liam
-9/27/2024,Fri,Medium,200,Desktop,Hardware Issues,Closed,10/16/2024,Lucas
-9/27/2024,Fri,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/27/2024,Fri,Medium,200,Internet and Network Connectivity,Connectivity Issues,Closed,10/20/2024,Sofia
+9/27/2024,Fri,Medium,200,Desktop,Reimage,Closed,10/16/2024,Lucas
+9/27/2024,Fri,Low,200,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/27/2024,Fri,Medium,200,Connectivity ,Internet,Closed,10/20/2024,Sofia
 9/27/2024,Fri,Medium,200,Login,Login,Closed,10/9/2024,Sofia
-9/27/2024,Fri,Medium,200,Desktop,Reconnect,Closed,9/30/2024,Sofia
-9/27/2024,Fri,Medium,300,Desktop,Reimage Desktop,Closed,9/30/2024,Sofia
-9/27/2024,Fri,Medium,300,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Sofia
-9/27/2024,Fri,Medium,300,Desktop,Hardware Issues,Closed,10/1/2024,Sofia
-9/27/2024,Fri,Low,400,Login,Access to Application - Application Software,Closed,10/7/2024,Liam
-9/27/2024,Fri,Low,400,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Henry
-9/27/2024,Fri,Low,500,E-Mail,Add / Remove / Change,Closed,10/7/2024,Sofia
+9/27/2024,Fri,Medium,200,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/27/2024,Fri,Medium,300,Desktop,Reimage,Closed,9/30/2024,Sofia
+9/27/2024,Fri,Medium,300,Connectivity ,Internet,Closed,9/22/2024,Sofia
+9/27/2024,Fri,Medium,300,Desktop,Reimage,Closed,10/1/2024,Sofia
+9/27/2024,Fri,Low,400,Login,Login,Closed,10/7/2024,Liam
+9/27/2024,Fri,Low,400,Connectivity ,Internet,Closed,10/5/2024,Henry
+9/27/2024,Fri,Low,500,E-Mail,Login,Closed,10/7/2024,Sofia
 9/27/2024,Fri,Medium,600,Login,Login,Closed,10/7/2024,Lucas
-9/27/2024,Fri,Low,700,Login,Setup / Change / Remove Roaming Profile,Closed,9/22/2024,Sofia
-9/27/2024,Fri,Medium,700,Printing and Scanning,Printing Issues,Closed,10/14/2024,Henry
-9/27/2024,Fri,Medium,800,Login,Add / Edit / Remove Application,Canceled,10/3/2024,Sofia
-9/27/2024,Fri,Medium,800,Desktop,Inactive-Update Issue,Closed,10/15/2024,Liam
-9/27/2024,Fri,Low,800,Internet and Network Connectivity,Wiring Repairs,Closed,10/26/2024,Sofia
-9/27/2024,Fri,Low,800,Internet and Network Connectivity,Connectivity Issues,Closed,10/14/2024,Sofia
+9/27/2024,Fri,Low,700,Login,Login,Closed,9/22/2024,Sofia
+9/27/2024,Fri,Medium,700,Security,CAT 3 Code,Closed,10/14/2024,Henry
+9/27/2024,Fri,Medium,800,Login,Login,Canceled,10/3/2024,Sofia
+9/27/2024,Fri,Medium,800,Desktop,Reimage,Closed,10/15/2024,Liam
+9/27/2024,Fri,Low,800,Connectivity ,Internet,Closed,10/26/2024,Sofia
+9/27/2024,Fri,Low,800,Connectivity ,Internet,Closed,10/14/2024,Sofia
 9/27/2024,Fri,Medium,800,Login,Login,Closed,10/2/2024,Sofia
-9/27/2024,Fri,Medium,800,Printing and Scanning,Printing Issues,Closed,10/14/2024,Sofia
-9/27/2024,Fri,Medium,800,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
-9/30/2024,Mon,Medium,800,Desktop,Add Desktop to Intune Staff Group,Closed,10/7/2024,Lucas
-9/30/2024,Mon,Low,100,Login,Access to Application - Application Software,Closed,10/6/2024,Lucas
-9/30/2024,Mon,Low,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/8/2024,Henry
-9/30/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/23/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Reconnect,Closed,10/27/2024,Sofia
-9/30/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/27/2024,Sofia
-9/30/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/16/2024,Sofia
-9/30/2024,Mon,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/21/2024,Henry
-9/30/2024,Mon,Low,100,Login,Access to Application - Application Software,Closed,10/1/2024,Henry
-9/30/2024,Mon,Low,100,Desktop,Inactive-Update Issue,Closed,10/5/2024,Lucas
-9/30/2024,Mon,Medium,100,Desktop,Reconnect,Closed,10/1/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Reconnect,Closed,10/1/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Reconnect,Closed,10/1/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Reconnect,Closed,10/1/2024,Sofia
-9/30/2024,Mon,Low,100,Desktop,Login issues - Desktop,Closed,10/7/2024,Henry
+9/27/2024,Fri,Medium,800,Security,CAT 3 Code,Closed,10/14/2024,Sofia
+9/27/2024,Fri,Medium,800,Security,CAT 3 Code,Closed,9/22/2024,Henry
+9/30/2024,Mon,Medium,800,Desktop,Reimage,Closed,10/7/2024,Lucas
+9/30/2024,Mon,Low,100,Login,Login,Closed,10/6/2024,Lucas
+9/30/2024,Mon,Low,100,Connectivity ,Internet,Closed,10/8/2024,Henry
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/23/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/27/2024,Sofia
+9/30/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/27/2024,Sofia
+9/30/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/16/2024,Sofia
+9/30/2024,Mon,Medium,100,Connectivity ,Internet,Closed,10/21/2024,Henry
+9/30/2024,Mon,Low,100,Login,Login,Closed,10/1/2024,Henry
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/5/2024,Lucas
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/1/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/1/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/1/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/1/2024,Sofia
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/7/2024,Henry
 9/30/2024,Mon,Low,100,Login,Login,Closed,10/16/2024,Henry
-9/30/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,11/6/2024,Sofia
-9/30/2024,Mon,Medium,100,Login,Issues with O365 license,Closed,11/17/2024,Sofia
-9/30/2024,Mon,Low,100,Printing and Scanning,Printing/Scanning Issue,Closed,10/15/2024,Sofia
-9/30/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/9/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/21/2024,Henry
-9/30/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/16/2024,Sofia
-9/30/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/7/2024,Liam
-9/30/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
-9/30/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/30/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/30/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/30/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/30/2024,Mon,Medium,100,Printing and Scanning,Printing Issues,Closed,10/16/2024,Henry
-9/30/2024,Mon,Low,200,Internet and Network Connectivity,Admin Network Down,Closed,10/23/2024,Sofia
-9/30/2024,Mon,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Sofia
-9/30/2024,Mon,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,10/6/2024,Henry
-9/30/2024,Mon,Low,200,Desktop,Add Desktop to Intune Staff Group,Closed,10/2/2024,Lucas
-9/30/2024,Mon,Medium,200,Printing and Scanning,Printing Issues,Closed,10/27/2024,Henry
-9/30/2024,Mon,Medium,200,Desktop,Reimage Desktop,Closed,10/9/2024,Sofia
-9/30/2024,Mon,Low,200,Printing and Scanning,Printing Issues,Closed,11/4/2024,Sofia
+9/30/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,11/6/2024,Sofia
+9/30/2024,Mon,Medium,100,Login,Login,Closed,11/17/2024,Sofia
+9/30/2024,Mon,Low,100,Security,CAT 3 Code,Closed,10/15/2024,Sofia
+9/30/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/9/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/21/2024,Henry
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/16/2024,Sofia
+9/30/2024,Mon,Medium,100,Desktop,Reimage,Closed,10/7/2024,Liam
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/1/2024,Lucas
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/30/2024,Mon,Low,100,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/30/2024,Mon,Medium,100,Security,CAT 3 Code,Closed,10/16/2024,Henry
+9/30/2024,Mon,Low,200,Connectivity ,Internet,Closed,10/23/2024,Sofia
+9/30/2024,Mon,Low,200,Desktop,Reimage,Closed,10/2/2024,Sofia
+9/30/2024,Mon,Low,200,Desktop,Reimage,Closed,10/6/2024,Henry
+9/30/2024,Mon,Low,200,Desktop,Reimage,Closed,10/2/2024,Lucas
+9/30/2024,Mon,Medium,200,Security,CAT 3 Code,Closed,10/27/2024,Henry
+9/30/2024,Mon,Medium,200,Desktop,Reimage,Closed,10/9/2024,Sofia
+9/30/2024,Mon,Low,200,Security,CAT 3 Code,Closed,11/4/2024,Sofia
 9/30/2024,Mon,Low,200,Login,Login,Closed,10/20/2024,Lucas
-9/30/2024,Mon,Medium,400,Desktop,Reimage Desktop,Closed,10/20/2024,Henry
-9/30/2024,Mon,Low,400,Desktop,Inactive-Update Issue,Closed,10/14/2024,Liam
-9/30/2024,Mon,Medium,400,Login,Issues with O365 license,Closed,10/30/2024,Henry
-9/30/2024,Mon,Low,500,Login,Login issues,Closed,10/15/2024,Henry
+9/30/2024,Mon,Medium,400,Desktop,Reimage,Closed,10/20/2024,Henry
+9/30/2024,Mon,Low,400,Desktop,Reimage,Closed,10/14/2024,Liam
+9/30/2024,Mon,Medium,400,Login,Login,Closed,10/30/2024,Henry
+9/30/2024,Mon,Low,500,Login,Login,Closed,10/15/2024,Henry
 9/30/2024,Mon,Medium,800,Login,Login,Closed,11/16/2024,Sofia
-9/30/2024,Mon,Medium,800,Desktop,Reconnect,Closed,10/20/2024,Sofia
-9/30/2024,Mon,Medium,800,Desktop,Reimage Desktop,Canceled,10/5/2024,Henry
-9/30/2024,Mon,Low,100,E-Mail,Add / Remove / Change,Closed,9/22/2024,Henry
-9/30/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/30/2024,Mon,Medium,200,Internet and Network Connectivity,VLAN Change,Closed,9/22/2024,Sofia
-9/30/2024,Mon,Medium,200,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
+9/30/2024,Mon,Medium,800,Desktop,Reimage,Closed,10/20/2024,Sofia
+9/30/2024,Mon,Medium,800,Desktop,Reimage,Canceled,10/5/2024,Henry
+9/30/2024,Mon,Low,100,E-Mail,Login,Closed,9/22/2024,Henry
+9/30/2024,Mon,Medium,100,Login,Login,Closed,9/22/2024,Lucas
+9/30/2024,Mon,Medium,200,Connectivity ,Internet,Closed,9/22/2024,Sofia
+9/30/2024,Mon,Medium,200,Login,Login,Closed,9/22/2024,Sofia
