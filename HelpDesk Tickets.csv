@@ -330,8 +330,8 @@
 9/9/2024,Mon,Medium,100,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
 9/9/2024,Mon,High,400,Login,Add / Edit / Remove Application,Closed,9/22/2024,Henry
 9/9/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Sofia
-9/9/2024,Mon,Low,800,,,Closed,9/22/2024,Lucas
-9/9/2024,Mon,Low,800,,,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Low,800,NaN,NaN,Closed,9/22/2024,Lucas
+9/9/2024,Mon,Low,800,NaN,NaN,Closed,9/22/2024,Lucas
 9/9/2024,Mon,Medium,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/15/2024,Henry
 9/9/2024,Mon,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,9/16/2024,Sofia
 9/10/2024,Tue,Medium,200,Printing and Scanning,Printing Issues,Closed,9/25/2024,Henry
@@ -581,7 +581,7 @@
 9/16/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
 9/16/2024,Mon,Low,100,Login,Login,Closed,10/9/2024,Lucas
 9/16/2024,Mon,Medium,100,Internet and Network Connectivity,Connectivity Issues,Closed,10/5/2024,Sofia
-9/16/2024,Mon,Low,100,,,Closed,9/22/2024,Lucas
+9/16/2024,Mon,Low,100,NaN,NaN,Closed,9/22/2024,Lucas
 9/16/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/8/2024,Liam
 9/16/2024,Mon,Medium,100,Internet and Network Connectivity,Slow Internet Connectivity,Closed,9/24/2024,Henry
 9/16/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,9/18/2024,Henry
@@ -794,7 +794,7 @@
 9/20/2024,Fri,Medium,800,Login,Upgrade,Closed,9/22/2024,Sofia
 9/20/2024,Fri,Medium,800,Login,Login,Closed,10/8/2024,Henry
 9/20/2024,Fri,Low,800,Login,Login,Closed,10/8/2024,Sofia
-9/23/2024,Mon,Medium,100,Printing and Scanning, ,Closed,9/22/2024,Henry
+9/23/2024,Mon,Medium,100,Printing and Scanning,NaN,NaN,9/22/2024,Henry
 9/23/2024,Mon,Medium,100,Login,Login,Closed,10/20/2024,Henry
 9/23/2024,Mon,Low,100,Login,Login issues,Closed,10/20/2024,Henry
 9/23/2024,Mon,Medium,100,Desktop,Hardware Issues,Closed,10/9/2024,Sofia
@@ -842,7 +842,7 @@
 9/23/2024,Mon,Low,800,Login,Login,Closed,10/1/2024,Lucas
 9/23/2024,Mon,Medium,800,Printing and Scanning,Move-Add-Change Request,Closed,9/22/2024,Henry
 9/23/2024,Mon,Medium,800,Login,Add / Edit / Remove Application,Closed,9/22/2024,Lucas
-9/23/2024,Mon,Low,100,,,Closed,9/22/2024,Sofia
+9/23/2024,Mon,Low,100,NaN,NaN,Closed,9/22/2024,Sofia
 9/23/2024,Mon,Medium,100,Desktop,Reimage Desktop,Closed,10/16/2024,Sofia
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/7/2024,Liam
 9/23/2024,Mon,Low,100,Login,Login,Closed,10/13/2024,Lucas
@@ -964,7 +964,7 @@
 9/27/2024,Fri,Medium,100,Desktop,Hardware Issues,Closed,9/30/2024,Sofia
 9/27/2024,Fri,Low,100,E-Mail,Add / Remove / Change,Closed,10/7/2024,Henry
 9/27/2024,Fri,Low,100,Login,Login,Closed,10/16/2024,Henry
-9/27/2024,Fri,Low,100,,,Closed,9/22/2024,Liam
+9/27/2024,Fri,Low,100,NaN,NaN,Closed,9/22/2024,Liam
 9/27/2024,Fri,Medium,100,Desktop,Boot-Up Errors,Closed,10/7/2024,Lucas
 9/27/2024,Fri,Low,100,Desktop,Application Issues - Desktop,Closed,10/7/2024,Liam
 9/27/2024,Fri,Low,100,Desktop,Add Desktop to Intune Staff Group,Closed,10/1/2024,Lucas
